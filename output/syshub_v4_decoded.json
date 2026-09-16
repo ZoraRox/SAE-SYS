@@ -1,0 +1,3835 @@
+{
+  "count": 547,
+  "allBytesLen": 4661,
+  "entries": [
+    {
+      "i": 1,
+      "len": 8,
+      "printRatio": 0.125,
+      "hex": "5181d40785facb89",
+      "text": "Q��\\x07��ˉ"
+    },
+    {
+      "i": 2,
+      "len": 4,
+      "printRatio": 0.25,
+      "hex": "aaf60f34",
+      "text": "��\\x0f4"
+    },
+    {
+      "i": 3,
+      "len": 8,
+      "printRatio": 0.5,
+      "hex": "446024b4edfaa87b",
+      "text": "D`$����{"
+    },
+    {
+      "i": 4,
+      "len": 7,
+      "printRatio": 0.429,
+      "hex": "2acc1991db0a48",
+      "text": "*�\\x19��\nH"
+    },
+    {
+      "i": 5,
+      "len": 8,
+      "printRatio": 0.5,
+      "hex": "8681407898292a11",
+      "text": "��@x�)*\\x11"
+    },
+    {
+      "i": 6,
+      "len": 5,
+      "printRatio": 0.4,
+      "hex": "3782f62199",
+      "text": "7��!�"
+    },
+    {
+      "i": 7,
+      "len": 4,
+      "printRatio": 1,
+      "hex": "5544696d",
+      "text": "UDim"
+    },
+    {
+      "i": 8,
+      "len": 7,
+      "printRatio": 0.429,
+      "hex": "ae946f38898a4d",
+      "text": "��o8��M"
+    },
+    {
+      "i": 9,
+      "len": 13,
+      "printRatio": 1,
+      "hex": "563453503850524b494b51664b",
+      "text": "V4SP8PRKIKQfK"
+    },
+    {
+      "i": 10,
+      "len": 73,
+      "printRatio": 0.342,
+      "hex": "4ac9cf60f8a86781eb31e178cc8281578825e01377ee89458060fb8592359cb45462eb72e54fdb9704c5e66c0c34a0f4f02aad7e17124bb2a4f6126bf91dead7d7602df2a10e412183",
+      "text": "J��`��g��1�x̂�W�%�\\x13w�E�`���5��Tb�r�Oۗ\\x04��l\\x0c4���*�~\\x17\\x12K���\\x12k�\\x1d���`-�\\x0eA!�"
+    },
+    {
+      "i": 11,
+      "len": 8,
+      "printRatio": 0.25,
+      "hex": "83a6b577501488f3",
+      "text": "���wP\\x14��"
+    },
+    {
+      "i": 12,
+      "len": 22,
+      "printRatio": 0.364,
+      "hex": "c8528b97a941beccdacc60903e6a2027b53a179406ac",
+      "text": "�R���A����`�>j '�:\\x17�\\x06�"
+    },
+    {
+      "i": 13,
+      "len": 17,
+      "printRatio": 0.294,
+      "hex": "518c4ec8310e1c31087df8ea9f1f03f6dd",
+      "text": "Q�N�1\\x0e\\x1c1\\x08}��\\x1f\\x03��"
+    },
+    {
+      "i": 14,
+      "len": 8,
+      "printRatio": 0.25,
+      "hex": "d097994c52c9e3f7",
+      "text": "З�LR���"
+    },
+    {
+      "i": 15,
+      "len": 53,
+      "printRatio": 0.415,
+      "hex": "a06b96a4b346eb02dffd1b29db08082136ec5420aa85834aa5ee4d441430e0bb950d5c75712a23814a28b8cb10faf733bf9da1240d",
+      "text": "�k���F�\\x02��\\x1b)�\\x08\\x08!6�T ���J��MD\\x140໕\r\\uq*#�J(��\\x10��3���$\r"
+    },
+    {
+      "i": 16,
+      "len": 3,
+      "printRatio": 0.333,
+      "hex": "ea083e",
+      "text": "�\\x08>"
+    },
+    {
+      "i": 17,
+      "len": 4,
+      "printRatio": 0.25,
+      "hex": "ab1d4e87",
+      "text": "�\\x1dN�"
+    },
+    {
+      "i": 18,
+      "len": 12,
+      "printRatio": 1,
+      "hex": "687474705f72657175657374",
+      "text": "http_request"
+    },
+    {
+      "i": 19,
+      "len": 16,
+      "printRatio": 0.5,
+      "hex": "20df5b86375ca3285fe430b36b058af0",
+      "text": " �[�7\\�(_�0�k\\x05��"
+    },
+    {
+      "i": 20,
+      "len": 4,
+      "printRatio": 0.5,
+      "hex": "5378e6d7",
+      "text": "Sx��"
+    },
+    {
+      "i": 21,
+      "len": 3,
+      "printRatio": 0.667,
+      "hex": "55d563",
+      "text": "U�c"
+    },
+    {
+      "i": 22,
+      "len": 4,
+      "printRatio": 0.75,
+      "hex": "487d290c",
+      "text": "H})\\x0c"
+    },
+    {
+      "i": 23,
+      "len": 3,
+      "printRatio": 0.667,
+      "hex": "62963a",
+      "text": "b�:"
+    },
+    {
+      "i": 24,
+      "len": 10,
+      "printRatio": 0.4,
+      "hex": "b1f6bf630239cb7455d5",
+      "text": "���c\\x029�tU�"
+    },
+    {
+      "i": 25,
+      "len": 3,
+      "printRatio": 0,
+      "hex": "edef90",
+      "text": "��"
+    },
+    {
+      "i": 26,
+      "len": 4,
+      "printRatio": 1,
+      "hex": "456e756d",
+      "text": "Enum"
+    },
+    {
+      "i": 27,
+      "len": 5,
+      "printRatio": 1,
+      "hex": "7072696e74",
+      "text": "print"
+    },
+    {
+      "i": 28,
+      "len": 8,
+      "printRatio": 0.375,
+      "hex": "60f5a2cb7ad1b94c",
+      "text": "`���zѹL"
+    },
+    {
+      "i": 29,
+      "len": 3,
+      "printRatio": 0,
+      "hex": "90b40c",
+      "text": "��\\x0c"
+    },
+    {
+      "i": 30,
+      "len": 10,
+      "printRatio": 0.3,
+      "hex": "57878c26afd30e91c14f",
+      "text": "W��&��\\x0e��O"
+    },
+    {
+      "i": 31,
+      "len": 5,
+      "printRatio": 0.6,
+      "hex": "861d263f67",
+      "text": "�\\x1d&?g"
+    },
+    {
+      "i": 32,
+      "len": 3,
+      "printRatio": 0.667,
+      "hex": "7d338c",
+      "text": "}3�"
+    },
+    {
+      "i": 33,
+      "len": 16,
+      "printRatio": 0.25,
+      "hex": "360ace95f4c61fcde426b1a7b10ec856",
+      "text": "6\nΕ��\\x1f��&���\\x0e�V"
+    },
+    {
+      "i": 34,
+      "len": 7,
+      "printRatio": 0.571,
+      "hex": "2e48691ee23cf1",
+      "text": ".Hi\\x1e�<�"
+    },
+    {
+      "i": 35,
+      "len": 6,
+      "printRatio": 1,
+      "hex": "72616e646f6d",
+      "text": "random"
+    },
+    {
+      "i": 36,
+      "len": 4,
+      "printRatio": 0.75,
+      "hex": "43552ff2",
+      "text": "CU/�"
+    },
+    {
+      "i": 37,
+      "len": 4,
+      "printRatio": 0.25,
+      "hex": "e6d68040",
+      "text": "�ր@"
+    },
+    {
+      "i": 38,
+      "len": 4,
+      "printRatio": 0.25,
+      "hex": "100442fa",
+      "text": "\\x10\\x04B�"
+    },
+    {
+      "i": 39,
+      "len": 1,
+      "printRatio": 0,
+      "hex": "05",
+      "text": "\\x05"
+    },
+    {
+      "i": 40,
+      "len": 10,
+      "printRatio": 0.4,
+      "hex": "e07de7a1342e06bb3eb3",
+      "text": "�}�4.\\x06�>�"
+    },
+    {
+      "i": 41,
+      "len": 12,
+      "printRatio": 0.583,
+      "hex": "e1a63b2c78f93a0976371da0",
+      "text": "�;,x�:\tv7\\x1d�"
+    },
+    {
+      "i": 42,
+      "len": 8,
+      "printRatio": 1,
+      "hex": "496e7374616e6365",
+      "text": "Instance"
+    },
+    {
+      "i": 43,
+      "len": 4,
+      "printRatio": 0,
+      "hex": "eba705e8",
+      "text": "�\\x05�"
+    },
+    {
+      "i": 44,
+      "len": 6,
+      "printRatio": 0.667,
+      "hex": "56223d3aa69b",
+      "text": "V\"=:��"
+    },
+    {
+      "i": 45,
+      "len": 4,
+      "printRatio": 1,
+      "hex": "4b69636b",
+      "text": "Kick"
+    },
+    {
+      "i": 46,
+      "len": 13,
+      "printRatio": 1,
+      "hex": "37444b38546e7431547977596a",
+      "text": "7DK8Tnt1TywYj"
+    },
+    {
+      "i": 47,
+      "len": 17,
+      "printRatio": 0.412,
+      "hex": "37796713fa25c6cacab092ceba2d79578a",
+      "text": "7yg\\x13�%��ʰ�κ-yW�"
+    },
+    {
+      "i": 48,
+      "len": 4,
+      "printRatio": 0.5,
+      "hex": "0d5edcb1",
+      "text": "\r^ܱ"
+    },
+    {
+      "i": 49,
+      "len": 3,
+      "printRatio": 0.333,
+      "hex": "289787",
+      "text": "(��"
+    },
+    {
+      "i": 50,
+      "len": 4,
+      "printRatio": 0.5,
+      "hex": "366db38f",
+      "text": "6m��"
+    },
+    {
+      "i": 51,
+      "len": 13,
+      "printRatio": 1,
+      "hex": "5a626763387335573345707a4a",
+      "text": "Zbgc8s5W3EpzJ"
+    },
+    {
+      "i": 52,
+      "len": 4,
+      "printRatio": 0.25,
+      "hex": "f5cc38eb",
+      "text": "��8�"
+    },
+    {
+      "i": 53,
+      "len": 7,
+      "printRatio": 0.143,
+      "hex": "be5bbfabf013a4",
+      "text": "�[���\\x13�"
+    },
+    {
+      "i": 54,
+      "len": 13,
+      "printRatio": 0.231,
+      "hex": "c4f343e9fc80d4e66f9947b495",
+      "text": "��C�����o�G��"
+    },
+    {
+      "i": 55,
+      "len": 14,
+      "printRatio": 1,
+      "hex": "6841665a6b6969584b445047624b",
+      "text": "hAfZkiiXKDPGbK"
+    },
+    {
+      "i": 56,
+      "len": 4,
+      "printRatio": 0.25,
+      "hex": "bda637de",
+      "text": "��7�"
+    },
+    {
+      "i": 57,
+      "len": 8,
+      "printRatio": 0.375,
+      "hex": "b62aa32f8659841d",
+      "text": "�*�/�Y�\\x1d"
+    },
+    {
+      "i": 58,
+      "len": 9,
+      "printRatio": 0.333,
+      "hex": "d9bcc91614d87d4656",
+      "text": "ټ�\\x16\\x14�}FV"
+    },
+    {
+      "i": 59,
+      "len": 5,
+      "printRatio": 0.4,
+      "hex": "930d6f0388",
+      "text": "�\ro\\x03�"
+    },
+    {
+      "i": 60,
+      "len": 10,
+      "printRatio": 0.4,
+      "hex": "f92e1bc1ad6152a9fb31",
+      "text": "�.\\x1b��aR��1"
+    },
+    {
+      "i": 61,
+      "len": 3,
+      "printRatio": 0.667,
+      "hex": "a72138",
+      "text": "�!8"
+    },
+    {
+      "i": 62,
+      "len": 7,
+      "printRatio": 1,
+      "hex": "64656c66696c65",
+      "text": "delfile"
+    },
+    {
+      "i": 63,
+      "len": 13,
+      "printRatio": 1,
+      "hex": "386839476b38784f4532687249",
+      "text": "8h9Gk8xOE2hrI"
+    },
+    {
+      "i": 64,
+      "len": 4,
+      "printRatio": 0.5,
+      "hex": "4a23c0f2",
+      "text": "J#��"
+    },
+    {
+      "i": 65,
+      "len": 7,
+      "printRatio": 0.429,
+      "hex": "a8640a290ceccf",
+      "text": "�d\n)\\x0c��"
+    },
+    {
+      "i": 66,
+      "len": 9,
+      "printRatio": 0.556,
+      "hex": "334f1b599d7c329eea",
+      "text": "3O\\x1bY�|2��"
+    },
+    {
+      "i": 67,
+      "len": 17,
+      "printRatio": 0.412,
+      "hex": "d6e7bb0b4734953d8d1ff9487bae597796",
+      "text": "��\\x0bG4�=�\\x1f�H{�Yw�"
+    },
+    {
+      "i": 68,
+      "len": 41,
+      "printRatio": 0.512,
+      "hex": "870769173f63f29f104737837c2a1654d03f3c0e72f0c841e29854bc1ce378c7a77963a62325664826",
+      "text": "�\\x07i\\x17?c�\\x10G7�|*\\x16T�?<\\x0er��A�T�\\x1c�xǧyc�#%fH&"
+    },
+    {
+      "i": 69,
+      "len": 13,
+      "printRatio": 1,
+      "hex": "696d4c39356435684a514f7468",
+      "text": "imL95d5hJQOth"
+    },
+    {
+      "i": 70,
+      "len": 6,
+      "printRatio": 0.167,
+      "hex": "43a612fdfae7",
+      "text": "C�\\x12���"
+    },
+    {
+      "i": 71,
+      "len": 74,
+      "printRatio": 0.351,
+      "hex": "fd1e5cd549ab69e3218de285275ab2abb386f4ef19a1424a78cf2cf63e19ad8e2be43090cb917fd46133b4aa87e09578752f207610efef02fcd5b12416a3c9f7153c477018aaea69f473",
+      "text": "�\\x1e\\�I�i�!��'Z������\\x19�BJx�,�>\\x19��+�0�ˑ\\x7f�a3�����xu/ v\\x10��\\x02�ձ$\\x16���\\x15<Gp\\x18��i�s"
+    },
+    {
+      "i": 72,
+      "len": 3,
+      "printRatio": 0.667,
+      "hex": "3e60f2",
+      "text": ">`�"
+    },
+    {
+      "i": 73,
+      "len": 8,
+      "printRatio": 0.25,
+      "hex": "febc17d072a46fac",
+      "text": "��\\x17�r�o�"
+    },
+    {
+      "i": 74,
+      "len": 2,
+      "printRatio": 1,
+      "hex": "6c32",
+      "text": "l2"
+    },
+    {
+      "i": 75,
+      "len": 3,
+      "printRatio": 0,
+      "hex": "ebbf86",
+      "text": "뿆"
+    },
+    {
+      "i": 76,
+      "len": 12,
+      "printRatio": 1,
+      "hex": "75734d52306a6e5765564e34",
+      "text": "usMR0jnWeVN4"
+    },
+    {
+      "i": 77,
+      "len": 4,
+      "printRatio": 0.25,
+      "hex": "d19279e2",
+      "text": "ђy�"
+    },
+    {
+      "i": 78,
+      "len": 4,
+      "printRatio": 0.5,
+      "hex": "ae61f836",
+      "text": "�a�6"
+    },
+    {
+      "i": 79,
+      "len": 10,
+      "printRatio": 0.3,
+      "hex": "c5b26258ec9f7ca3f91e",
+      "text": "ŲbX�|��\\x1e"
+    },
+    {
+      "i": 80,
+      "len": 10,
+      "printRatio": 0.4,
+      "hex": "a411027493b94078219a",
+      "text": "�\\x11\\x02t��@x!�"
+    },
+    {
+      "i": 81,
+      "len": 5,
+      "printRatio": 0.6,
+      "hex": "2fa06bb954",
+      "text": "/�k�T"
+    },
+    {
+      "i": 82,
+      "len": 11,
+      "printRatio": 0.364,
+      "hex": "9234c0380d8769ad08f7e9",
+      "text": "�4�8\r�i�\\x08��"
+    },
+    {
+      "i": 83,
+      "len": 3,
+      "printRatio": 0,
+      "hex": "b01db2",
+      "text": "�\\x1d�"
+    },
+    {
+      "i": 84,
+      "len": 6,
+      "printRatio": 0.167,
+      "hex": "16008a070620",
+      "text": "\\x16\\x00�\\x07\\x06 "
+    },
+    {
+      "i": 85,
+      "len": 19,
+      "printRatio": 0.211,
+      "hex": "e331ad2f1196c08ea4cee54eea0fe7054ac0d7",
+      "text": "�1�/\\x11������N�\\x0f�\\x05J��"
+    },
+    {
+      "i": 86,
+      "len": 10,
+      "printRatio": 0.4,
+      "hex": "667fd94d544e99a4cddf",
+      "text": "f\\x7f�MTN����"
+    },
+    {
+      "i": 87,
+      "len": 8,
+      "printRatio": 0.625,
+      "hex": "a451ec3c4e6a3fba",
+      "text": "�Q�<Nj?�"
+    },
+    {
+      "i": 88,
+      "len": 7,
+      "printRatio": 0.429,
+      "hex": "78aaebc311565d",
+      "text": "x���\\x11V]"
+    },
+    {
+      "i": 89,
+      "len": 12,
+      "printRatio": 0.25,
+      "hex": "8d8a9f935dab761f17aeda73",
+      "text": "����]�v\\x1f\\x17��s"
+    },
+    {
+      "i": 90,
+      "len": 45,
+      "printRatio": 0.356,
+      "hex": "d9f0510909647fba3baeb7dfa1db11b542de27699e68d82694249523ae69b6a9c71f7612d68befa706037ea439",
+      "text": "��Q\t\td\\x7f�;��ߡ�\\x11�B�'i�h�&�$�#�i���\\x1fv\\x12֋�\\x06\\x03~�9"
+    },
+    {
+      "i": 91,
+      "len": 8,
+      "printRatio": 0.375,
+      "hex": "4a5754b3c307f2b8",
+      "text": "JWT��\\x07�"
+    },
+    {
+      "i": 92,
+      "len": 7,
+      "printRatio": 0,
+      "hex": "1e12dc8b06011c",
+      "text": "\\x1e\\x12܋\\x06\\x01\\x1c"
+    },
+    {
+      "i": 93,
+      "len": 13,
+      "printRatio": 1,
+      "hex": "6e744e664e69714f346b4c4d5a",
+      "text": "ntNfNiqO4kLMZ"
+    },
+    {
+      "i": 94,
+      "len": 13,
+      "printRatio": 0.462,
+      "hex": "f3f2bb1f576f781564322db3d2",
+      "text": "��\\x1fWox\\x15d2-��"
+    },
+    {
+      "i": 95,
+      "len": 16,
+      "printRatio": 0.375,
+      "hex": "11942f41460bb7759e3e46e1cb11aff7",
+      "text": "\\x11�/AF\\x0b�u�>F��\\x11��"
+    },
+    {
+      "i": 96,
+      "len": 5,
+      "printRatio": 0.6,
+      "hex": "22624114b2",
+      "text": "\"bA\\x14�"
+    },
+    {
+      "i": 97,
+      "len": 10,
+      "printRatio": 0.2,
+      "hex": "069f9c936d5be7fbfa98",
+      "text": "\\x06���m[����"
+    },
+    {
+      "i": 98,
+      "len": 3,
+      "printRatio": 0.667,
+      "hex": "984370",
+      "text": "�Cp"
+    },
+    {
+      "i": 99,
+      "len": 4,
+      "printRatio": 0.75,
+      "hex": "b62c7b09",
+      "text": "�,{\t"
+    },
+    {
+      "i": 100,
+      "len": 14,
+      "printRatio": 1,
+      "hex": "4f744638446b316a386861414b73",
+      "text": "OtF8Dk1j8haAKs"
+    },
+    {
+      "i": 101,
+      "len": 3,
+      "printRatio": 0.333,
+      "hex": "03a22b",
+      "text": "\\x03�+"
+    },
+    {
+      "i": 102,
+      "len": 4,
+      "printRatio": 0.25,
+      "hex": "a9e634a3",
+      "text": "��4�"
+    },
+    {
+      "i": 103,
+      "len": 22,
+      "printRatio": 0.273,
+      "hex": "28ccb7cef51fae0893d85c35754de0f4d6fbd1da8b56",
+      "text": "(̷��\\x1f�\\x08��\\5uM�����ڋV"
+    },
+    {
+      "i": 104,
+      "len": 5,
+      "printRatio": 0.2,
+      "hex": "e9dd06a775",
+      "text": "��\\x06�u"
+    },
+    {
+      "i": 105,
+      "len": 7,
+      "printRatio": 1,
+      "hex": "436f6e6e656374",
+      "text": "Connect"
+    },
+    {
+      "i": 106,
+      "len": 3,
+      "printRatio": 0,
+      "hex": "e5190e",
+      "text": "�\\x19\\x0e"
+    },
+    {
+      "i": 107,
+      "len": 10,
+      "printRatio": 0.3,
+      "hex": "d8288d1915720260ae9e",
+      "text": "�(�\\x19\\x15r\\x02`��"
+    },
+    {
+      "i": 108,
+      "len": 21,
+      "printRatio": 0.286,
+      "hex": "91ff39d1a5c1ee4498e71673ee59bb55b3f8c26308",
+      "text": "��9ѥ��D��\\x16s�Y�U���c\\x08"
+    },
+    {
+      "i": 109,
+      "len": 13,
+      "printRatio": 0.462,
+      "hex": "1a0278eb67880866cf64306cfc",
+      "text": "\\x1a\\x02x�g�\\x08f�d0l�"
+    },
+    {
+      "i": 110,
+      "len": 13,
+      "printRatio": 1,
+      "hex": "357a4b33466878545962777438",
+      "text": "5zK3FhxTYbwt8"
+    },
+    {
+      "i": 111,
+      "len": 11,
+      "printRatio": 0.455,
+      "hex": "07f36152e9b623be7bd16b",
+      "text": "\\x07�aR�#�{�k"
+    },
+    {
+      "i": 112,
+      "len": 16,
+      "printRatio": 0.438,
+      "hex": "dcee33394d51bf05ee24d9dc41b455cd",
+      "text": "��39MQ�\\x05�$��A�U�"
+    },
+    {
+      "i": 113,
+      "len": 8,
+      "printRatio": 0.5,
+      "hex": "8e1e80756dbd2f49",
+      "text": "�\\x1e�um�/I"
+    },
+    {
+      "i": 114,
+      "len": 7,
+      "printRatio": 0,
+      "hex": "06c11af4e18dd3",
+      "text": "\\x06�\\x1a���"
+    },
+    {
+      "i": 115,
+      "len": 7,
+      "printRatio": 1,
+      "hex": "566563746f7232",
+      "text": "Vector2"
+    },
+    {
+      "i": 116,
+      "len": 6,
+      "printRatio": 0.333,
+      "hex": "1dbac443ef0a",
+      "text": "\\x1d��C�\n"
+    },
+    {
+      "i": 117,
+      "len": 5,
+      "printRatio": 1,
+      "hex": "666c6f6f72",
+      "text": "floor"
+    },
+    {
+      "i": 118,
+      "len": 3,
+      "printRatio": 1,
+      "hex": "79433c",
+      "text": "yC<"
+    },
+    {
+      "i": 119,
+      "len": 10,
+      "printRatio": 0.5,
+      "hex": "746898d045dc635c1305",
+      "text": "th��E�c\\\\x13\\x05"
+    },
+    {
+      "i": 120,
+      "len": 16,
+      "printRatio": 0.313,
+      "hex": "7a5dda932732f112b6f9afc3e4b3ca6e",
+      "text": "z]ړ'2�\\x12������n"
+    },
+    {
+      "i": 121,
+      "len": 6,
+      "printRatio": 1,
+      "hex": "436f6c6f7233",
+      "text": "Color3"
+    },
+    {
+      "i": 122,
+      "len": 4,
+      "printRatio": 0.75,
+      "hex": "af3b792e",
+      "text": "�;y."
+    },
+    {
+      "i": 123,
+      "len": 13,
+      "printRatio": 0.462,
+      "hex": "55666273ac723fb01f9ae9d6e1",
+      "text": "Ufbs�r?�\\x1f����"
+    },
+    {
+      "i": 124,
+      "len": 20,
+      "printRatio": 0.25,
+      "hex": "21b883a307df621f1c7f4701cbf7bdc8946b22a9",
+      "text": "!���\\x07�b\\x1f\\x1c\\x7fG\\x01���Ȕk\"�"
+    },
+    {
+      "i": 125,
+      "len": 4,
+      "printRatio": 0.5,
+      "hex": "983ec33c",
+      "text": "�>�<"
+    },
+    {
+      "i": 126,
+      "len": 4,
+      "printRatio": 0.5,
+      "hex": "2bbed86c",
+      "text": "+��l"
+    },
+    {
+      "i": 127,
+      "len": 4,
+      "printRatio": 0.25,
+      "hex": "3eebf68e",
+      "text": ">���"
+    },
+    {
+      "i": 128,
+      "len": 10,
+      "printRatio": 0.7,
+      "hex": "5b736971ba866974d46a",
+      "text": "[siq��it�j"
+    },
+    {
+      "i": 129,
+      "len": 10,
+      "printRatio": 0.4,
+      "hex": "7f077a2b850fca63a65e",
+      "text": "\\x7f\\x07z+�\\x0f�c�^"
+    },
+    {
+      "i": 130,
+      "len": 14,
+      "printRatio": 0.429,
+      "hex": "9340e857749b5065fac7f677b282",
+      "text": "�@�Wt�Pe���w��"
+    },
+    {
+      "i": 131,
+      "len": 4,
+      "printRatio": 0.75,
+      "hex": "6a346ff8",
+      "text": "j4o�"
+    },
+    {
+      "i": 132,
+      "len": 14,
+      "printRatio": 1,
+      "hex": "475152614e59674362324e344552",
+      "text": "GQRaNYgCb2N4ER"
+    },
+    {
+      "i": 133,
+      "len": 3,
+      "printRatio": 1,
+      "hex": "217152",
+      "text": "!qR"
+    },
+    {
+      "i": 134,
+      "len": 12,
+      "printRatio": 0.583,
+      "hex": "03ab78fb5f644c861e425c72",
+      "text": "\\x03�x�_dL�\\x1eB\\r"
+    },
+    {
+      "i": 135,
+      "len": 10,
+      "printRatio": 1,
+      "hex": "6c6f6164737472696e67",
+      "text": "loadstring"
+    },
+    {
+      "i": 136,
+      "len": 3,
+      "printRatio": 0.333,
+      "hex": "f7927a",
+      "text": "��z"
+    },
+    {
+      "i": 137,
+      "len": 5,
+      "printRatio": 0.6,
+      "hex": "c23849b96c",
+      "text": "�8I�l"
+    },
+    {
+      "i": 138,
+      "len": 10,
+      "printRatio": 0.5,
+      "hex": "5911c058c85d1bbe7e23",
+      "text": "Y\\x11�X�]\\x1b�~#"
+    },
+    {
+      "i": 139,
+      "len": 14,
+      "printRatio": 1,
+      "hex": "5658576262416d6a6c6d596d426b",
+      "text": "VXWbbAmjlmYmBk"
+    },
+    {
+      "i": 140,
+      "len": 6,
+      "printRatio": 1,
+      "hex": "756e7061636b",
+      "text": "unpack"
+    },
+    {
+      "i": 141,
+      "len": 19,
+      "printRatio": 0.684,
+      "hex": "69b638323d52e2b5b73f7ee0690d573e52fd77",
+      "text": "i�82=R⵷?~�i\rW>R�w"
+    },
+    {
+      "i": 142,
+      "len": 10,
+      "printRatio": 0.5,
+      "hex": "4bcda55dd2ef636acd7b",
+      "text": "Kͥ]��cj�{"
+    },
+    {
+      "i": 143,
+      "len": 10,
+      "printRatio": 0.3,
+      "hex": "f6b00ca352b63477f60e",
+      "text": "��\\x0c�R�4w�\\x0e"
+    },
+    {
+      "i": 144,
+      "len": 6,
+      "printRatio": 1,
+      "hex": "697366696c65",
+      "text": "isfile"
+    },
+    {
+      "i": 145,
+      "len": 14,
+      "printRatio": 1,
+      "hex": "4b725a576d716873367362507954",
+      "text": "KrZWmqhs6sbPyT"
+    },
+    {
+      "i": 146,
+      "len": 7,
+      "printRatio": 0.286,
+      "hex": "60be161d048b5c",
+      "text": "`�\\x16\\x1d\\x04�\\"
+    },
+    {
+      "i": 147,
+      "len": 19,
+      "printRatio": 0.368,
+      "hex": "67dba03cb3981afb56632996ec122720ed918e",
+      "text": "g۠<��\\x1a�Vc)��\\x12' 푎"
+    },
+    {
+      "i": 148,
+      "len": 7,
+      "printRatio": 1,
+      "hex": "3a2825642a293a",
+      "text": ":(%d*):"
+    },
+    {
+      "i": 149,
+      "len": 2,
+      "printRatio": 0,
+      "hex": "02c8",
+      "text": "\\x02�"
+    },
+    {
+      "i": 150,
+      "len": 6,
+      "printRatio": 1,
+      "hex": "437265617465",
+      "text": "Create"
+    },
+    {
+      "i": 151,
+      "len": 12,
+      "printRatio": 1,
+      "hex": "6d6a444f507a6e474a535546",
+      "text": "mjDOPznGJSUF"
+    },
+    {
+      "i": 152,
+      "len": 14,
+      "printRatio": 1,
+      "hex": "46696e6446697273744368696c64",
+      "text": "FindFirstChild"
+    },
+    {
+      "i": 153,
+      "len": 7,
+      "printRatio": 0.429,
+      "hex": "77c1b0f72a4ae0",
+      "text": "w���*J�"
+    },
+    {
+      "i": 154,
+      "len": 22,
+      "printRatio": 0.318,
+      "hex": "d92ef7e4ba0a4cdd7deea547a1d1bbaba3f3b6ed7e4e",
+      "text": "�.��\nL�}�G�ѻ����~N"
+    },
+    {
+      "i": 155,
+      "len": 14,
+      "printRatio": 1,
+      "hex": "34425571466b7562324866586d39",
+      "text": "4BUqFkub2HfXm9"
+    },
+    {
+      "i": 156,
+      "len": 6,
+      "printRatio": 0.667,
+      "hex": "49239a705dd2",
+      "text": "I#�p]�"
+    },
+    {
+      "i": 157,
+      "len": 6,
+      "printRatio": 0.333,
+      "hex": "ec3057ed9806",
+      "text": "�0W�\\x06"
+    },
+    {
+      "i": 158,
+      "len": 7,
+      "printRatio": 0.286,
+      "hex": "d06a069b8465ea",
+      "text": "�j\\x06��e�"
+    },
+    {
+      "i": 159,
+      "len": 4,
+      "printRatio": 0.75,
+      "hex": "7248183a",
+      "text": "rH\\x18:"
+    },
+    {
+      "i": 160,
+      "len": 7,
+      "printRatio": 0.429,
+      "hex": "7851dbbc964bba",
+      "text": "xQۼ�K�"
+    },
+    {
+      "i": 161,
+      "len": 3,
+      "printRatio": 0.667,
+      "hex": "610e30",
+      "text": "a\\x0e0"
+    },
+    {
+      "i": 162,
+      "len": 6,
+      "printRatio": 0.333,
+      "hex": "ddec490be264",
+      "text": "��I\\x0b�d"
+    },
+    {
+      "i": 163,
+      "len": 10,
+      "printRatio": 0.3,
+      "hex": "94a347d99bb4300463b4",
+      "text": "��Gٛ�0\\x04c�"
+    },
+    {
+      "i": 164,
+      "len": 4,
+      "printRatio": 1,
+      "hex": "506c6179",
+      "text": "Play"
+    },
+    {
+      "i": 165,
+      "len": 3,
+      "printRatio": 0,
+      "hex": "d0e8b8",
+      "text": "��"
+    },
+    {
+      "i": 166,
+      "len": 9,
+      "printRatio": 0.556,
+      "hex": "f573bd32216595d320",
+      "text": "�s�2!e�� "
+    },
+    {
+      "i": 167,
+      "len": 4,
+      "printRatio": 0.5,
+      "hex": "156e3ee4",
+      "text": "\\x15n>�"
+    },
+    {
+      "i": 168,
+      "len": 7,
+      "printRatio": 0.571,
+      "hex": "c43d2d6970c0b9",
+      "text": "�=-ip��"
+    },
+    {
+      "i": 169,
+      "len": 10,
+      "printRatio": 0.3,
+      "hex": "7fe5a36bceaf4ace2881",
+      "text": "\\x7f�kίJ�(�"
+    },
+    {
+      "i": 170,
+      "len": 6,
+      "printRatio": 0.5,
+      "hex": "85096571baa3",
+      "text": "�\teq��"
+    },
+    {
+      "i": 171,
+      "len": 17,
+      "printRatio": 0.353,
+      "hex": "dc81f02425b09750b777241a898053cb1f",
+      "text": "܁�$%��P�w$\\x1a��S�\\x1f"
+    },
+    {
+      "i": 172,
+      "len": 4,
+      "printRatio": 0.5,
+      "hex": "49a14dcf",
+      "text": "I�M�"
+    },
+    {
+      "i": 173,
+      "len": 3,
+      "printRatio": 0.333,
+      "hex": "974a12",
+      "text": "�J\\x12"
+    },
+    {
+      "i": 174,
+      "len": 19,
+      "printRatio": 0.526,
+      "hex": "0c34af2b3fdbb3daae211952f82762562237e6",
+      "text": "\\x0c4�+?۳ڮ!\\x19R�'bV\"7�"
+    },
+    {
+      "i": 175,
+      "len": 4,
+      "printRatio": 0.5,
+      "hex": "76904da3",
+      "text": "v�M�"
+    },
+    {
+      "i": 176,
+      "len": 3,
+      "printRatio": 0.667,
+      "hex": "7ade30",
+      "text": "z�0"
+    },
+    {
+      "i": 177,
+      "len": 8,
+      "printRatio": 0.25,
+      "hex": "26a183f9b0f07e84",
+      "text": "&�����~�"
+    },
+    {
+      "i": 178,
+      "len": 11,
+      "printRatio": 0.455,
+      "hex": "a3551970dd0a53f40b0362",
+      "text": "�U\\x19p�\nS�\\x0b\\x03b"
+    },
+    {
+      "i": 179,
+      "len": 3,
+      "printRatio": 0.333,
+      "hex": "96fa3f",
+      "text": "��?"
+    },
+    {
+      "i": 180,
+      "len": 10,
+      "printRatio": 0.5,
+      "hex": "1d7a220ec93d591d806c",
+      "text": "\\x1dz\"\\x0e�=Y\\x1d�l"
+    },
+    {
+      "i": 181,
+      "len": 5,
+      "printRatio": 0.2,
+      "hex": "62ebb8a59b",
+      "text": "b븥�"
+    },
+    {
+      "i": 182,
+      "len": 4,
+      "printRatio": 0.25,
+      "hex": "28de95ed",
+      "text": "(ޕ�"
+    },
+    {
+      "i": 183,
+      "len": 10,
+      "printRatio": 0.4,
+      "hex": "f3b9801a3760ba723fa2",
+      "text": "�\\x1a7`�r?�"
+    },
+    {
+      "i": 184,
+      "len": 5,
+      "printRatio": 0,
+      "hex": "fdc70ef9fa",
+      "text": "��\\x0e��"
+    },
+    {
+      "i": 185,
+      "len": 13,
+      "printRatio": 1,
+      "hex": "39475654554f6d4a4758637033",
+      "text": "9GVTUOmJGXcp3"
+    },
+    {
+      "i": 186,
+      "len": 3,
+      "printRatio": 0,
+      "hex": "de12d8",
+      "text": "�\\x12�"
+    },
+    {
+      "i": 187,
+      "len": 4,
+      "printRatio": 0.75,
+      "hex": "d470444b",
+      "text": "�pDK"
+    },
+    {
+      "i": 188,
+      "len": 12,
+      "printRatio": 1,
+      "hex": "6b57323456696b694f465976",
+      "text": "kW24VikiOFYv"
+    },
+    {
+      "i": 189,
+      "len": 11,
+      "printRatio": 1,
+      "hex": "765650504938623248695a",
+      "text": "vVPPI8b2HiZ"
+    },
+    {
+      "i": 190,
+      "len": 6,
+      "printRatio": 0.333,
+      "hex": "9b1215545912",
+      "text": "�\\x12\\x15TY\\x12"
+    },
+    {
+      "i": 191,
+      "len": 8,
+      "printRatio": 0.125,
+      "hex": "8806d50ed556fdab",
+      "text": "�\\x06�\\x0e�V��"
+    },
+    {
+      "i": 192,
+      "len": 5,
+      "printRatio": 0.2,
+      "hex": "498f86b6cf",
+      "text": "I����"
+    },
+    {
+      "i": 193,
+      "len": 5,
+      "printRatio": 1,
+      "hex": "7461626c65",
+      "text": "table"
+    },
+    {
+      "i": 194,
+      "len": 22,
+      "printRatio": 0.636,
+      "hex": "6b9074c03d2d212f00f02621215dc7b70d7772cd4612",
+      "text": "k�t�=-!/\\x00�&!!]Ƿ\rwr�F\\x12"
+    },
+    {
+      "i": 195,
+      "len": 7,
+      "printRatio": 1,
+      "hex": "536574436f7265",
+      "text": "SetCore"
+    },
+    {
+      "i": 196,
+      "len": 3,
+      "printRatio": 0.667,
+      "hex": "bd2a56",
+      "text": "�*V"
+    },
+    {
+      "i": 197,
+      "len": 6,
+      "printRatio": 0.5,
+      "hex": "47eb619435ee",
+      "text": "G�a�5�"
+    },
+    {
+      "i": 198,
+      "len": 4,
+      "printRatio": 0.75,
+      "hex": "2f9f232a",
+      "text": "/�#*"
+    },
+    {
+      "i": 199,
+      "len": 15,
+      "printRatio": 0.333,
+      "hex": "de75a99896ddf301e3392559b0a809",
+      "text": "�u�����\\x01�9%Y��\t"
+    },
+    {
+      "i": 200,
+      "len": 15,
+      "printRatio": 0.267,
+      "hex": "8f61191da0b9932082db74800b9959",
+      "text": "�a\\x19\\x1d��� ��t�\\x0b�Y"
+    },
+    {
+      "i": 201,
+      "len": 6,
+      "printRatio": 0.5,
+      "hex": "657dfeb3f23f",
+      "text": "e}���?"
+    },
+    {
+      "i": 202,
+      "len": 5,
+      "printRatio": 0.2,
+      "hex": "3c9215e718",
+      "text": "<�\\x15�\\x18"
+    },
+    {
+      "i": 203,
+      "len": 12,
+      "printRatio": 1,
+      "hex": "54426e4f473346486e344645",
+      "text": "TBnOG3FHn4FE"
+    },
+    {
+      "i": 204,
+      "len": 8,
+      "printRatio": 0.375,
+      "hex": "4321678797179a85",
+      "text": "C!g��\\x17��"
+    },
+    {
+      "i": 205,
+      "len": 14,
+      "printRatio": 1,
+      "hex": "4c334d356f426b6c644936436967",
+      "text": "L3M5oBkldI6Cig"
+    },
+    {
+      "i": 206,
+      "len": 4,
+      "printRatio": 0.5,
+      "hex": "812ba460",
+      "text": "�+�`"
+    },
+    {
+      "i": 207,
+      "len": 14,
+      "printRatio": 1,
+      "hex": "364d5732543650387a5a6c554946",
+      "text": "6MW2T6P8zZlUIF"
+    },
+    {
+      "i": 208,
+      "len": 6,
+      "printRatio": 0.167,
+      "hex": "349facba979e",
+      "text": "4�����"
+    },
+    {
+      "i": 209,
+      "len": 21,
+      "printRatio": 1,
+      "hex": "436f6c6f7253657175656e63654b6579706f696e74",
+      "text": "ColorSequenceKeypoint"
+    },
+    {
+      "i": 210,
+      "len": 5,
+      "printRatio": 0,
+      "hex": "8c7fd71c13",
+      "text": "�\\x7f�\\x1c\\x13"
+    },
+    {
+      "i": 211,
+      "len": 3,
+      "printRatio": 0.333,
+      "hex": "981149",
+      "text": "�\\x11I"
+    },
+    {
+      "i": 212,
+      "len": 5,
+      "printRatio": 0.6,
+      "hex": "385a07bf2f",
+      "text": "8Z\\x07�/"
+    },
+    {
+      "i": 213,
+      "len": 9,
+      "printRatio": 0.333,
+      "hex": "75411cb3a2a89ffc57",
+      "text": "uA\\x1c�����W"
+    },
+    {
+      "i": 214,
+      "len": 13,
+      "printRatio": 0.462,
+      "hex": "81ec52e1809922544f5da372c2",
+      "text": "��Rမ\"TO]�r�"
+    },
+    {
+      "i": 215,
+      "len": 7,
+      "printRatio": 0.571,
+      "hex": "a33d4b087cb831",
+      "text": "�=K\\x08|�1"
+    },
+    {
+      "i": 216,
+      "len": 13,
+      "printRatio": 1,
+      "hex": "36434a7976626a6c654b66636e",
+      "text": "6CJyvbjleKfcn"
+    },
+    {
+      "i": 217,
+      "len": 4,
+      "printRatio": 0.25,
+      "hex": "f3768b8a",
+      "text": "�v��"
+    },
+    {
+      "i": 218,
+      "len": 13,
+      "printRatio": 1,
+      "hex": "31584569356142763068593251",
+      "text": "1XEi5aBv0hY2Q"
+    },
+    {
+      "i": 219,
+      "len": 5,
+      "printRatio": 0.2,
+      "hex": "7c1c1cca89",
+      "text": "|\\x1c\\x1cʉ"
+    },
+    {
+      "i": 220,
+      "len": 7,
+      "printRatio": 0.571,
+      "hex": "751d2acb874422",
+      "text": "u\\x1d*ˇD\""
+    },
+    {
+      "i": 221,
+      "len": 14,
+      "printRatio": 1,
+      "hex": "5839664c4a30765248713264436e",
+      "text": "X9fLJ0vRHq2dCn"
+    },
+    {
+      "i": 222,
+      "len": 6,
+      "printRatio": 0,
+      "hex": "cefd06d4df0b",
+      "text": "��\\x06��\\x0b"
+    },
+    {
+      "i": 223,
+      "len": 3,
+      "printRatio": 0,
+      "hex": "fb0fa8",
+      "text": "�\\x0f�"
+    },
+    {
+      "i": 224,
+      "len": 7,
+      "printRatio": 0.286,
+      "hex": "c755b620e5af96",
+      "text": "�U� 寖"
+    },
+    {
+      "i": 225,
+      "len": 5,
+      "printRatio": 1,
+      "hex": "6c6f776572",
+      "text": "lower"
+    },
+    {
+      "i": 226,
+      "len": 4,
+      "printRatio": 0,
+      "hex": "aee7bd1d",
+      "text": "��\\x1d"
+    },
+    {
+      "i": 227,
+      "len": 4,
+      "printRatio": 0.5,
+      "hex": "7769d795",
+      "text": "wiו"
+    },
+    {
+      "i": 228,
+      "len": 12,
+      "printRatio": 0.5,
+      "hex": "3aa438a33d785600b1cc6f93",
+      "text": ":�8�=xV\\x00��o�"
+    },
+    {
+      "i": 229,
+      "len": 13,
+      "printRatio": 1,
+      "hex": "30766e625968576f454a754d43",
+      "text": "0vnbYhWoEJuMC"
+    },
+    {
+      "i": 230,
+      "len": 3,
+      "printRatio": 0.667,
+      "hex": "60641d",
+      "text": "`d\\x1d"
+    },
+    {
+      "i": 231,
+      "len": 6,
+      "printRatio": 0.167,
+      "hex": "bac3618abbd4",
+      "text": "��a���"
+    },
+    {
+      "i": 232,
+      "len": 4,
+      "printRatio": 0.25,
+      "hex": "dd3fffb8",
+      "text": "�?��"
+    },
+    {
+      "i": 233,
+      "len": 4,
+      "printRatio": 0.25,
+      "hex": "ec1639cb",
+      "text": "�\\x169�"
+    },
+    {
+      "i": 234,
+      "len": 17,
+      "printRatio": 0.235,
+      "hex": "4689d9b6a024eb90fa156cc55ec5f7e0cd",
+      "text": "F�ٶ�$��\\x15l�^����"
+    },
+    {
+      "i": 235,
+      "len": 7,
+      "printRatio": 0.143,
+      "hex": "3282e0d61607b2",
+      "text": "2���\\x16\\x07�"
+    },
+    {
+      "i": 236,
+      "len": 4,
+      "printRatio": 0.25,
+      "hex": "9cc32b12",
+      "text": "��+\\x12"
+    },
+    {
+      "i": 237,
+      "len": 3,
+      "printRatio": 0.667,
+      "hex": "33a22b",
+      "text": "3�+"
+    },
+    {
+      "i": 238,
+      "len": 4,
+      "printRatio": 0.25,
+      "hex": "5b1cfd9a",
+      "text": "[\\x1c��"
+    },
+    {
+      "i": 239,
+      "len": 16,
+      "printRatio": 0.438,
+      "hex": "946496b66cb44f524521b6e5105bd7ad",
+      "text": "�d��l�ORE!��\\x10[׭"
+    },
+    {
+      "i": 240,
+      "len": 8,
+      "printRatio": 0.875,
+      "hex": "7951582f438c4222",
+      "text": "yQX/C�B\""
+    },
+    {
+      "i": 241,
+      "len": 3,
+      "printRatio": 0.333,
+      "hex": "9f2814",
+      "text": "�(\\x14"
+    },
+    {
+      "i": 242,
+      "len": 17,
+      "printRatio": 0.412,
+      "hex": "d7e12a9aa603a224887e86ae755f6ce868",
+      "text": "��*��\\x03�$�~��u_l�h"
+    },
+    {
+      "i": 243,
+      "len": 12,
+      "printRatio": 0.417,
+      "hex": "b85dcdeefa5a685f97bb54b0",
+      "text": "�]���Zh_��T�"
+    },
+    {
+      "i": 244,
+      "len": 7,
+      "printRatio": 0.429,
+      "hex": "7ebc78f3e8c02c",
+      "text": "~�x���,"
+    },
+    {
+      "i": 245,
+      "len": 7,
+      "printRatio": 0.429,
+      "hex": "4f4f21f2f619de",
+      "text": "OO!��\\x19�"
+    },
+    {
+      "i": 246,
+      "len": 5,
+      "printRatio": 0.2,
+      "hex": "fa6ad4baf6",
+      "text": "�jԺ�"
+    },
+    {
+      "i": 247,
+      "len": 11,
+      "printRatio": 0.455,
+      "hex": "615312bc8c79f8ab21026c",
+      "text": "aS\\x12��y��!\\x02l"
+    },
+    {
+      "i": 248,
+      "len": 9,
+      "printRatio": 0.444,
+      "hex": "86657fd10524348331",
+      "text": "�e\\x7f�\\x05$4�1"
+    },
+    {
+      "i": 249,
+      "len": 4,
+      "printRatio": 1,
+      "hex": "62797465",
+      "text": "byte"
+    },
+    {
+      "i": 250,
+      "len": 3,
+      "printRatio": 0.667,
+      "hex": "5b162f",
+      "text": "[\\x16/"
+    },
+    {
+      "i": 251,
+      "len": 7,
+      "printRatio": 0.429,
+      "hex": "566aba059d7e9e",
+      "text": "Vj�\\x05�~�"
+    },
+    {
+      "i": 252,
+      "len": 13,
+      "printRatio": 0.692,
+      "hex": "2eaa6819f32771be3b356a6f2d",
+      "text": ".�h\\x19�'q�;5jo-"
+    },
+    {
+      "i": 253,
+      "len": 10,
+      "printRatio": 0.3,
+      "hex": "836598d6130b4ff5a464",
+      "text": "�e��\\x13\\x0bO��d"
+    },
+    {
+      "i": 254,
+      "len": 5,
+      "printRatio": 0.4,
+      "hex": "cc3b3bf6fc",
+      "text": "�;;��"
+    },
+    {
+      "i": 255,
+      "len": 12,
+      "printRatio": 1,
+      "hex": "4d527577324a756379777377",
+      "text": "MRuw2Jucywsw"
+    },
+    {
+      "i": 256,
+      "len": 7,
+      "printRatio": 0.286,
+      "hex": "d71515e135f266",
+      "text": "�\\x15\\x15�5�f"
+    },
+    {
+      "i": 257,
+      "len": 7,
+      "printRatio": 0.286,
+      "hex": "df127465db9f81",
+      "text": "�\\x12te۟�"
+    },
+    {
+      "i": 258,
+      "len": 3,
+      "printRatio": 0,
+      "hex": "cc1da1",
+      "text": "�\\x1d�"
+    },
+    {
+      "i": 259,
+      "len": 13,
+      "printRatio": 1,
+      "hex": "544e3858697157637631576359",
+      "text": "TN8XiqWcv1WcY"
+    },
+    {
+      "i": 260,
+      "len": 3,
+      "printRatio": 0.667,
+      "hex": "0e5d35",
+      "text": "\\x0e]5"
+    },
+    {
+      "i": 261,
+      "len": 3,
+      "printRatio": 0,
+      "hex": "0cbfea",
+      "text": "\\x0c��"
+    },
+    {
+      "i": 262,
+      "len": 4,
+      "printRatio": 0.75,
+      "hex": "c332515a",
+      "text": "�2QZ"
+    },
+    {
+      "i": 263,
+      "len": 6,
+      "printRatio": 1,
+      "hex": "72656d6f7665",
+      "text": "remove"
+    },
+    {
+      "i": 264,
+      "len": 3,
+      "printRatio": 0,
+      "hex": "86ee89",
+      "text": "��"
+    },
+    {
+      "i": 265,
+      "len": 6,
+      "printRatio": 0.333,
+      "hex": "0fc153a35aa2",
+      "text": "\\x0f�S�Z�"
+    },
+    {
+      "i": 266,
+      "len": 14,
+      "printRatio": 1,
+      "hex": "376146624e513657566262314865",
+      "text": "7aFbNQ6WVbb1He"
+    },
+    {
+      "i": 267,
+      "len": 11,
+      "printRatio": 0.091,
+      "hex": "f2de00e949cc80c692d2f0",
+      "text": "��\\x00�Ìƒ��"
+    },
+    {
+      "i": 268,
+      "len": 4,
+      "printRatio": 0.5,
+      "hex": "25e949e1",
+      "text": "%�I�"
+    },
+    {
+      "i": 269,
+      "len": 9,
+      "printRatio": 1,
+      "hex": "777269746566696c65",
+      "text": "writefile"
+    },
+    {
+      "i": 270,
+      "len": 12,
+      "printRatio": 1,
+      "hex": "7365746d6574617461626c65",
+      "text": "setmetatable"
+    },
+    {
+      "i": 271,
+      "len": 6,
+      "printRatio": 0.167,
+      "hex": "971ddeeb8958",
+      "text": "�\\x1d��X"
+    },
+    {
+      "i": 272,
+      "len": 3,
+      "printRatio": 0.667,
+      "hex": "227e98",
+      "text": "\"~�"
+    },
+    {
+      "i": 273,
+      "len": 9,
+      "printRatio": 0.444,
+      "hex": "27e02a43902e8e1aac",
+      "text": "'�*C�.�\\x1a�"
+    },
+    {
+      "i": 274,
+      "len": 9,
+      "printRatio": 0.333,
+      "hex": "f698b1354e1e0175b5",
+      "text": "���5N\\x1e\\x01u�"
+    },
+    {
+      "i": 275,
+      "len": 13,
+      "printRatio": 1,
+      "hex": "6c51587873457778767a6f5246",
+      "text": "lQXxsEwxvzoRF"
+    },
+    {
+      "i": 276,
+      "len": 6,
+      "printRatio": 0.667,
+      "hex": "43072e78711a",
+      "text": "C\\x07.xq\\x1a"
+    },
+    {
+      "i": 277,
+      "len": 14,
+      "printRatio": 0.143,
+      "hex": "b63108fc8ebdea0bcc9df7b5943e",
+      "text": "�1\\x08����\\x0b̝���>"
+    },
+    {
+      "i": 278,
+      "len": 15,
+      "printRatio": 0.2,
+      "hex": "d25ab37ab1fcb09fce7bb70e0896f0",
+      "text": "�Z�z�����{�\\x0e\\x08��"
+    },
+    {
+      "i": 279,
+      "len": 6,
+      "printRatio": 0.333,
+      "hex": "565ee307d21a",
+      "text": "V^�\\x07�\\x1a"
+    },
+    {
+      "i": 280,
+      "len": 1,
+      "printRatio": 1,
+      "hex": "50",
+      "text": "P"
+    },
+    {
+      "i": 281,
+      "len": 7,
+      "printRatio": 0.286,
+      "hex": "e5b6405782b3d4",
+      "text": "�@W���"
+    },
+    {
+      "i": 282,
+      "len": 4,
+      "printRatio": 0,
+      "hex": "f680a087",
+      "text": "����"
+    },
+    {
+      "i": 283,
+      "len": 11,
+      "printRatio": 0.182,
+      "hex": "27f6d3cb32c5029b0f06aa",
+      "text": "'���2�\\x02�\\x0f\\x06�"
+    },
+    {
+      "i": 284,
+      "len": 11,
+      "printRatio": 0.273,
+      "hex": "fbbb06eac3b6d57956967b",
+      "text": "��\\x06�ö�yV�{"
+    },
+    {
+      "i": 285,
+      "len": 6,
+      "printRatio": 1,
+      "hex": "666c75787573",
+      "text": "fluxus"
+    },
+    {
+      "i": 286,
+      "len": 3,
+      "printRatio": 1,
+      "hex": "6c656e",
+      "text": "len"
+    },
+    {
+      "i": 287,
+      "len": 12,
+      "printRatio": 1,
+      "hex": "304b56546d754d714f39357a",
+      "text": "0KVTmuMqO95z"
+    },
+    {
+      "i": 288,
+      "len": 6,
+      "printRatio": 0.167,
+      "hex": "87c1a5af601a",
+      "text": "����`\\x1a"
+    },
+    {
+      "i": 289,
+      "len": 6,
+      "printRatio": 0.5,
+      "hex": "d44c56fd174e",
+      "text": "�LV�\\x17N"
+    },
+    {
+      "i": 290,
+      "len": 7,
+      "printRatio": 0,
+      "hex": "d10ec7b5b5fbd4",
+      "text": "�\\x0eǵ���"
+    },
+    {
+      "i": 291,
+      "len": 5,
+      "printRatio": 0,
+      "hex": "e015bf8e93",
+      "text": "�\\x15���"
+    },
+    {
+      "i": 292,
+      "len": 6,
+      "printRatio": 0.333,
+      "hex": "1a235918a717",
+      "text": "\\x1a#Y\\x18�\\x17"
+    },
+    {
+      "i": 293,
+      "len": 11,
+      "printRatio": 0.545,
+      "hex": "4c15996d3c04628844cc54",
+      "text": "L\\x15�m<\\x04b�D�T"
+    },
+    {
+      "i": 294,
+      "len": 13,
+      "printRatio": 0.154,
+      "hex": "2bfef442e3accbace5119e85f1",
+      "text": "+��B�ˬ�\\x11���"
+    },
+    {
+      "i": 295,
+      "len": 3,
+      "printRatio": 0.333,
+      "hex": "e14281",
+      "text": "�B�"
+    },
+    {
+      "i": 296,
+      "len": 8,
+      "printRatio": 0.375,
+      "hex": "02e9623acb49f3ed",
+      "text": "\\x02�b:�I��"
+    },
+    {
+      "i": 297,
+      "len": 10,
+      "printRatio": 0.8,
+      "hex": "2506704464304f040a30",
+      "text": "%\\x06pDd0O\\x04\n0"
+    },
+    {
+      "i": 298,
+      "len": 7,
+      "printRatio": 0.429,
+      "hex": "d655369054019f",
+      "text": "�U6�T\\x01�"
+    },
+    {
+      "i": 299,
+      "len": 6,
+      "printRatio": 0.5,
+      "hex": "1c645ee5c14b",
+      "text": "\\x1cd^��K"
+    },
+    {
+      "i": 300,
+      "len": 3,
+      "printRatio": 0.667,
+      "hex": "3337bd",
+      "text": "37�"
+    },
+    {
+      "i": 301,
+      "len": 6,
+      "printRatio": 0.167,
+      "hex": "ee9515b6301c",
+      "text": "�\\x15�0\\x1c"
+    },
+    {
+      "i": 302,
+      "len": 3,
+      "printRatio": 1,
+      "hex": "73796e",
+      "text": "syn"
+    },
+    {
+      "i": 303,
+      "len": 9,
+      "printRatio": 0.111,
+      "hex": "02df6d08a8f187fa8f",
+      "text": "\\x02�m\\x08����"
+    },
+    {
+      "i": 304,
+      "len": 1,
+      "printRatio": 0,
+      "hex": "17",
+      "text": "\\x17"
+    },
+    {
+      "i": 305,
+      "len": 6,
+      "printRatio": 0.167,
+      "hex": "fdf088db7215",
+      "text": "����r\\x15"
+    },
+    {
+      "i": 306,
+      "len": 3,
+      "printRatio": 0.333,
+      "hex": "76d0ca",
+      "text": "v��"
+    },
+    {
+      "i": 307,
+      "len": 6,
+      "printRatio": 0.333,
+      "hex": "54f21cd4468d",
+      "text": "T�\\x1c�F�"
+    },
+    {
+      "i": 308,
+      "len": 5,
+      "printRatio": 0.2,
+      "hex": "e258a617b1",
+      "text": "�X�\\x17�"
+    },
+    {
+      "i": 309,
+      "len": 4,
+      "printRatio": 0,
+      "hex": "8084f9d6",
+      "text": "����"
+    },
+    {
+      "i": 310,
+      "len": 7,
+      "printRatio": 1,
+      "hex": "3e4b7a517a3225",
+      "text": ">KzQz2%"
+    },
+    {
+      "i": 311,
+      "len": 9,
+      "printRatio": 0.556,
+      "hex": "575271ff6e0a938fb7",
+      "text": "WRq�n\n���"
+    },
+    {
+      "i": 312,
+      "len": 13,
+      "printRatio": 1,
+      "hex": "354d36615a55484d356a704c4a",
+      "text": "5M6aZUHM5jpLJ"
+    },
+    {
+      "i": 313,
+      "len": 10,
+      "printRatio": 0.4,
+      "hex": "59a34ef418637b11e71d",
+      "text": "Y�N�\\x18c{\\x11�\\x1d"
+    },
+    {
+      "i": 314,
+      "len": 3,
+      "printRatio": 0.333,
+      "hex": "46c01e",
+      "text": "F�\\x1e"
+    },
+    {
+      "i": 315,
+      "len": 1,
+      "printRatio": 1,
+      "hex": "7c",
+      "text": "|"
+    },
+    {
+      "i": 316,
+      "len": 4,
+      "printRatio": 0.5,
+      "hex": "d4114279",
+      "text": "�\\x11By"
+    },
+    {
+      "i": 317,
+      "len": 4,
+      "printRatio": 1,
+      "hex": "67616d65",
+      "text": "game"
+    },
+    {
+      "i": 318,
+      "len": 5,
+      "printRatio": 0.6,
+      "hex": "ce7a082656",
+      "text": "�z\\x08&V"
+    },
+    {
+      "i": 319,
+      "len": 5,
+      "printRatio": 0.6,
+      "hex": "873f358b52",
+      "text": "�?5�R"
+    },
+    {
+      "i": 320,
+      "len": 4,
+      "printRatio": 1,
+      "hex": "66696e64",
+      "text": "find"
+    },
+    {
+      "i": 321,
+      "len": 3,
+      "printRatio": 0.333,
+      "hex": "9fca78",
+      "text": "��x"
+    },
+    {
+      "i": 322,
+      "len": 6,
+      "printRatio": 0.167,
+      "hex": "cb0c5de39ea5",
+      "text": "�\\x0c]㞥"
+    },
+    {
+      "i": 323,
+      "len": 8,
+      "printRatio": 0.375,
+      "hex": "0eab1c3c76e86dfd",
+      "text": "\\x0e�\\x1c<v�m�"
+    },
+    {
+      "i": 324,
+      "len": 9,
+      "printRatio": 0.222,
+      "hex": "f31c77a20b855f1afe",
+      "text": "�\\x1cw�\\x0b�_\\x1a�"
+    },
+    {
+      "i": 325,
+      "len": 17,
+      "printRatio": 0.353,
+      "hex": "f5ed1ac5a63fd7924b059faa1d5e59636f",
+      "text": "��\\x1aŦ?גK\\x05��\\x1d^Yco"
+    },
+    {
+      "i": 326,
+      "len": 6,
+      "printRatio": 1,
+      "hex": "737472696e67",
+      "text": "string"
+    },
+    {
+      "i": 327,
+      "len": 3,
+      "printRatio": 0.333,
+      "hex": "9dc035",
+      "text": "��5"
+    },
+    {
+      "i": 328,
+      "len": 8,
+      "printRatio": 1,
+      "hex": "746f6e756d626572",
+      "text": "tonumber"
+    },
+    {
+      "i": 329,
+      "len": 9,
+      "printRatio": 0.444,
+      "hex": "1f4cc988715aec1269",
+      "text": "\\x1fLɈqZ�\\x12i"
+    },
+    {
+      "i": 330,
+      "len": 10,
+      "printRatio": 1,
+      "hex": "4a534f4e4465636f6465",
+      "text": "JSONDecode"
+    },
+    {
+      "i": 331,
+      "len": 4,
+      "printRatio": 0.5,
+      "hex": "ab5d60d1",
+      "text": "�]`�"
+    },
+    {
+      "i": 332,
+      "len": 3,
+      "printRatio": 0.667,
+      "hex": "f37820",
+      "text": "�x "
+    },
+    {
+      "i": 333,
+      "len": 1,
+      "printRatio": 1,
+      "hex": "3a",
+      "text": ":"
+    },
+    {
+      "i": 334,
+      "len": 3,
+      "printRatio": 0.667,
+      "hex": "1f7565",
+      "text": "\\x1fue"
+    },
+    {
+      "i": 335,
+      "len": 4,
+      "printRatio": 0.25,
+      "hex": "36c11c04",
+      "text": "6�\\x1c\\x04"
+    },
+    {
+      "i": 336,
+      "len": 7,
+      "printRatio": 0.143,
+      "hex": "44d7e0a8ff94fb",
+      "text": "D�����"
+    },
+    {
+      "i": 337,
+      "len": 17,
+      "printRatio": 0.471,
+      "hex": "833955694e60aa17cbbe95794bef67a6a3",
+      "text": "�9UiN`�\\x17˾�yK�g��"
+    },
+    {
+      "i": 338,
+      "len": 14,
+      "printRatio": 1,
+      "hex": "794b744867764d587a565a566b70",
+      "text": "yKtHgvMXzVZVkp"
+    },
+    {
+      "i": 339,
+      "len": 15,
+      "printRatio": 0.333,
+      "hex": "55161ce3fc8b8462f61f77832d52fc",
+      "text": "U\\x16\\x1c����b�\\x1fw�-R�"
+    },
+    {
+      "i": 340,
+      "len": 7,
+      "printRatio": 0.286,
+      "hex": "f5e3fb11173921",
+      "text": "���\\x11\\x179!"
+    },
+    {
+      "i": 341,
+      "len": 8,
+      "printRatio": 0.625,
+      "hex": "23acab53ce09755d",
+      "text": "#��S�\tu]"
+    },
+    {
+      "i": 342,
+      "len": 6,
+      "printRatio": 0.333,
+      "hex": "c0ad781b77d3",
+      "text": "��x\\x1bw�"
+    },
+    {
+      "i": 343,
+      "len": 3,
+      "printRatio": 0.333,
+      "hex": "9d7ead",
+      "text": "�~�"
+    },
+    {
+      "i": 344,
+      "len": 7,
+      "printRatio": 0.286,
+      "hex": "67089183d56e8f",
+      "text": "g\\x08���n�"
+    },
+    {
+      "i": 345,
+      "len": 7,
+      "printRatio": 0.429,
+      "hex": "23fe80be515df6",
+      "text": "#���Q]�"
+    },
+    {
+      "i": 346,
+      "len": 3,
+      "printRatio": 0.333,
+      "hex": "22f3f4",
+      "text": "\"��"
+    },
+    {
+      "i": 347,
+      "len": 4,
+      "printRatio": 0.5,
+      "hex": "5e619db3",
+      "text": "^a��"
+    },
+    {
+      "i": 348,
+      "len": 8,
+      "printRatio": 0.375,
+      "hex": "3f52ee5108b9eeff",
+      "text": "?R�Q\\x08���"
+    },
+    {
+      "i": 349,
+      "len": 35,
+      "printRatio": 0.457,
+      "hex": "3b9e300d5aace81e34ca8f6ab43795a3f2b908495d81311255865226530009f4c70e4b",
+      "text": ";�0\rZ��\\x1e4ʏj�7���\\x08I]�1\\x12U�R&S\\x00\t��\\x0eK"
+    },
+    {
+      "i": 350,
+      "len": 7,
+      "printRatio": 0,
+      "hex": "c7f4d286ff17fa",
+      "text": "��҆�\\x17�"
+    },
+    {
+      "i": 351,
+      "len": 4,
+      "printRatio": 0.75,
+      "hex": "654647e1",
+      "text": "eFG�"
+    },
+    {
+      "i": 352,
+      "len": 8,
+      "printRatio": 0.375,
+      "hex": "5b02c3e05748fcec",
+      "text": "[\\x02��WH��"
+    },
+    {
+      "i": 353,
+      "len": 3,
+      "printRatio": 1,
+      "hex": "5c2533",
+      "text": "\\%3"
+    },
+    {
+      "i": 354,
+      "len": 7,
+      "printRatio": 0.286,
+      "hex": "174b2d9385c601",
+      "text": "\\x17K-���\\x01"
+    },
+    {
+      "i": 355,
+      "len": 5,
+      "printRatio": 0.6,
+      "hex": "82614ce76f",
+      "text": "�aL�o"
+    },
+    {
+      "i": 356,
+      "len": 11,
+      "printRatio": 0.364,
+      "hex": "92a697cf23bf3db398582e",
+      "text": "����#�=��X."
+    },
+    {
+      "i": 357,
+      "len": 4,
+      "printRatio": 0.75,
+      "hex": "f761704c",
+      "text": "�apL"
+    },
+    {
+      "i": 358,
+      "len": 5,
+      "printRatio": 0.4,
+      "hex": "dabe1d7434",
+      "text": "ھ\\x1dt4"
+    },
+    {
+      "i": 359,
+      "len": 3,
+      "printRatio": 0,
+      "hex": "c2d780",
+      "text": "�׀"
+    },
+    {
+      "i": 360,
+      "len": 3,
+      "printRatio": 0.333,
+      "hex": "5b88fe",
+      "text": "[��"
+    },
+    {
+      "i": 361,
+      "len": 6,
+      "printRatio": 0.333,
+      "hex": "f31ac2393788",
+      "text": "�\\x1a�97�"
+    },
+    {
+      "i": 362,
+      "len": 4,
+      "printRatio": 0.25,
+      "hex": "b59dad4f",
+      "text": "���O"
+    },
+    {
+      "i": 363,
+      "len": 33,
+      "printRatio": 0.364,
+      "hex": "68dbcf6adf5fcd373522a3ffb8cce36ea0ef7016aeeee5e7b6bc7e87f259470467",
+      "text": "h��j�_�75\"�����n��p\\x16���綼~��YG\\x04g"
+    },
+    {
+      "i": 364,
+      "len": 4,
+      "printRatio": 0.25,
+      "hex": "bb5601b3",
+      "text": "�V\\x01�"
+    },
+    {
+      "i": 365,
+      "len": 10,
+      "printRatio": 0.7,
+      "hex": "b8bf36642b587a96417b",
+      "text": "��6d+Xz�A{"
+    },
+    {
+      "i": 366,
+      "len": 3,
+      "printRatio": 0,
+      "hex": "1afbdc",
+      "text": "\\x1a��"
+    },
+    {
+      "i": 367,
+      "len": 8,
+      "printRatio": 1,
+      "hex": "746f737472696e67",
+      "text": "tostring"
+    },
+    {
+      "i": 368,
+      "len": 10,
+      "printRatio": 0.4,
+      "hex": "7c01768517198f3659b3",
+      "text": "|\\x01v�\\x17\\x19�6Y�"
+    },
+    {
+      "i": 369,
+      "len": 4,
+      "printRatio": 0,
+      "hex": "aca2e19e",
+      "text": "���"
+    },
+    {
+      "i": 370,
+      "len": 7,
+      "printRatio": 0.714,
+      "hex": "17b86f633b443d",
+      "text": "\\x17�oc;D="
+    },
+    {
+      "i": 371,
+      "len": 7,
+      "printRatio": 1,
+      "hex": "44657374726f79",
+      "text": "Destroy"
+    },
+    {
+      "i": 372,
+      "len": 22,
+      "printRatio": 0.227,
+      "hex": "32abc09f9cdbd2d25c8fc4e310f98cdedf6888522211",
+      "text": "2�������\\���\\x10����h�R\"\\x11"
+    },
+    {
+      "i": 373,
+      "len": 12,
+      "printRatio": 1,
+      "hex": "736574636c6970626f617264",
+      "text": "setclipboard"
+    },
+    {
+      "i": 374,
+      "len": 22,
+      "printRatio": 0.364,
+      "hex": "86d58b83f777382ee508fe4d7edb5ada871077fe65fc",
+      "text": "�Ջ��w8.�\\x08�M~�Zڇ\\x10w�e�"
+    },
+    {
+      "i": 375,
+      "len": 5,
+      "printRatio": 0.2,
+      "hex": "cd47a3bcae",
+      "text": "�G���"
+    },
+    {
+      "i": 376,
+      "len": 13,
+      "printRatio": 1,
+      "hex": "715134354a66584c3170334b46",
+      "text": "qQ45JfXL1p3KF"
+    },
+    {
+      "i": 377,
+      "len": 14,
+      "printRatio": 1,
+      "hex": "344e45757a733577467132663162",
+      "text": "4NEuzs5wFq2f1b"
+    },
+    {
+      "i": 378,
+      "len": 7,
+      "printRatio": 0.286,
+      "hex": "dcc94e3cdbace5",
+      "text": "��N<۬�"
+    },
+    {
+      "i": 379,
+      "len": 6,
+      "printRatio": 0.5,
+      "hex": "a43b1dc94e75",
+      "text": "�;\\x1d�Nu"
+    },
+    {
+      "i": 380,
+      "len": 9,
+      "printRatio": 0.222,
+      "hex": "ea16e012ad55907507",
+      "text": "�\\x16�\\x12�U�u\\x07"
+    },
+    {
+      "i": 381,
+      "len": 13,
+      "printRatio": 1,
+      "hex": "794d413155646d7350754d6e6f",
+      "text": "yMA1UdmsPuMno"
+    },
+    {
+      "i": 382,
+      "len": 4,
+      "printRatio": 0.75,
+      "hex": "2b165a52",
+      "text": "+\\x16ZR"
+    },
+    {
+      "i": 383,
+      "len": 3,
+      "printRatio": 0.333,
+      "hex": "ce44e8",
+      "text": "�D�"
+    },
+    {
+      "i": 384,
+      "len": 4,
+      "printRatio": 1,
+      "hex": "7461736b",
+      "text": "task"
+    },
+    {
+      "i": 385,
+      "len": 36,
+      "printRatio": 0.444,
+      "hex": "110b1a0b86141aec5e6a5928acb6654ece30472ee86ca176b832d7157ad477e67cc34813",
+      "text": "\\x11\\x0b\\x1a\\x0b�\\x14\\x1a�^jY(��eN�0G.�l�v�2�\\x15z�w�|�H\\x13"
+    },
+    {
+      "i": 386,
+      "len": 9,
+      "printRatio": 0.222,
+      "hex": "aa071b34bca243c716",
+      "text": "�\\x07\\x1b4��C�\\x16"
+    },
+    {
+      "i": 387,
+      "len": 9,
+      "printRatio": 1,
+      "hex": "547765656e496e666f",
+      "text": "TweenInfo"
+    },
+    {
+      "i": 388,
+      "len": 10,
+      "printRatio": 0.4,
+      "hex": "4296b2a3f340cef25f76",
+      "text": "B����@��_v"
+    },
+    {
+      "i": 389,
+      "len": 3,
+      "printRatio": 0.333,
+      "hex": "1c460b",
+      "text": "\\x1cF\\x0b"
+    },
+    {
+      "i": 390,
+      "len": 5,
+      "printRatio": 0.4,
+      "hex": "4eaec4f64d",
+      "text": "N���M"
+    },
+    {
+      "i": 391,
+      "len": 5,
+      "printRatio": 0.6,
+      "hex": "f96d95625e",
+      "text": "�m�b^"
+    },
+    {
+      "i": 392,
+      "len": 8,
+      "printRatio": 0.25,
+      "hex": "f1f3b8fc58c22ce9",
+      "text": "���X�,�"
+    },
+    {
+      "i": 393,
+      "len": 4,
+      "printRatio": 0.5,
+      "hex": "5b3ce301",
+      "text": "[<�\\x01"
+    },
+    {
+      "i": 394,
+      "len": 12,
+      "printRatio": 0.417,
+      "hex": "3fc5117d7dac23137afcfaa5",
+      "text": "?�\\x11}}�#\\x13z���"
+    },
+    {
+      "i": 395,
+      "len": 7,
+      "printRatio": 0.143,
+      "hex": "96835baaac90d7",
+      "text": "��[����"
+    },
+    {
+      "i": 396,
+      "len": 6,
+      "printRatio": 0,
+      "hex": "9d95fe9abfdb",
+      "text": "������"
+    },
+    {
+      "i": 397,
+      "len": 16,
+      "printRatio": 0.5,
+      "hex": "33f813fecf585c54015ca3a06a20ea43",
+      "text": "3�\\x13��X\\T\\x01\\��j �C"
+    },
+    {
+      "i": 398,
+      "len": 5,
+      "printRatio": 1,
+      "hex": "7063616c6c",
+      "text": "pcall"
+    },
+    {
+      "i": 399,
+      "len": 5,
+      "printRatio": 0.2,
+      "hex": "ffe9dbfa56",
+      "text": "����V"
+    },
+    {
+      "i": 400,
+      "len": 5,
+      "printRatio": 0.4,
+      "hex": "9c91fa2077",
+      "text": "��� w"
+    },
+    {
+      "i": 401,
+      "len": 5,
+      "printRatio": 0.2,
+      "hex": "82691fcc14",
+      "text": "�i\\x1f�\\x14"
+    },
+    {
+      "i": 402,
+      "len": 18,
+      "printRatio": 0.444,
+      "hex": "d51cb236bbfd757963bcc4f747a1297d77c5",
+      "text": "�\\x1c�6��uyc���G�)}w�"
+    },
+    {
+      "i": 403,
+      "len": 3,
+      "printRatio": 0.667,
+      "hex": "2d7e80",
+      "text": "-~�"
+    },
+    {
+      "i": 404,
+      "len": 12,
+      "printRatio": 1,
+      "hex": "6164456b5078375679634358",
+      "text": "adEkPx7VycCX"
+    },
+    {
+      "i": 405,
+      "len": 5,
+      "printRatio": 0.4,
+      "hex": "1ce9408f2e",
+      "text": "\\x1c�@�."
+    },
+    {
+      "i": 406,
+      "len": 13,
+      "printRatio": 1,
+      "hex": "4f313458433562434353447077",
+      "text": "O14XC5bCCSDpw"
+    },
+    {
+      "i": 407,
+      "len": 4,
+      "printRatio": 1,
+      "hex": "5f5f6763",
+      "text": "__gc"
+    },
+    {
+      "i": 408,
+      "len": 22,
+      "printRatio": 0.364,
+      "hex": "f9ba60f35f1c0c5fe78138155118d9ca7c7f2c005de1",
+      "text": "��`�_\\x1c\\x0c_�8\\x15Q\\x18��|\\x7f,\\x00]�"
+    },
+    {
+      "i": 409,
+      "len": 6,
+      "printRatio": 0.167,
+      "hex": "f4f6dc20a1d6",
+      "text": "��� ��"
+    },
+    {
+      "i": 410,
+      "len": 8,
+      "printRatio": 1,
+      "hex": "7265616466696c65",
+      "text": "readfile"
+    },
+    {
+      "i": 411,
+      "len": 10,
+      "printRatio": 1,
+      "hex": "4a534f4e456e636f6465",
+      "text": "JSONEncode"
+    },
+    {
+      "i": 412,
+      "len": 7,
+      "printRatio": 0.714,
+      "hex": "56529c472859da",
+      "text": "VR�G(Y�"
+    },
+    {
+      "i": 413,
+      "len": 13,
+      "printRatio": 1,
+      "hex": "436f6c6f7253657175656e6365",
+      "text": "ColorSequence"
+    },
+    {
+      "i": 414,
+      "len": 4,
+      "printRatio": 0.25,
+      "hex": "2dbde01b",
+      "text": "-��\\x1b"
+    },
+    {
+      "i": 415,
+      "len": 7,
+      "printRatio": 0.286,
+      "hex": "06d1ecd0621c6f",
+      "text": "\\x06���b\\x1co"
+    },
+    {
+      "i": 416,
+      "len": 4,
+      "printRatio": 1,
+      "hex": "6d617468",
+      "text": "math"
+    },
+    {
+      "i": 417,
+      "len": 11,
+      "printRatio": 1,
+      "hex": "5f5f6d6574617461626c65",
+      "text": "__metatable"
+    },
+    {
+      "i": 418,
+      "len": 7,
+      "printRatio": 0.571,
+      "hex": "33854f22ebab63",
+      "text": "3�O\"�c"
+    },
+    {
+      "i": 419,
+      "len": 4,
+      "printRatio": 0.5,
+      "hex": "cb375d99",
+      "text": "�7]�"
+    },
+    {
+      "i": 420,
+      "len": 5,
+      "printRatio": 0.4,
+      "hex": "9f12d7576d",
+      "text": "�\\x12�Wm"
+    },
+    {
+      "i": 421,
+      "len": 5,
+      "printRatio": 0.4,
+      "hex": "5de5b07ab7",
+      "text": "]�z�"
+    },
+    {
+      "i": 422,
+      "len": 4,
+      "printRatio": 0,
+      "hex": "e905f1af",
+      "text": "�\\x05�"
+    },
+    {
+      "i": 423,
+      "len": 16,
+      "printRatio": 0.25,
+      "hex": "dd1a40e6c96c9d8d79bebb91d97e80c1",
+      "text": "�\\x1a@��l��y����~��"
+    },
+    {
+      "i": 424,
+      "len": 4,
+      "printRatio": 0.25,
+      "hex": "9e2310bf",
+      "text": "�#\\x10�"
+    },
+    {
+      "i": 425,
+      "len": 8,
+      "printRatio": 0.125,
+      "hex": "aee70fc74a1619b9",
+      "text": "��\\x0f�J\\x16\\x19�"
+    },
+    {
+      "i": 426,
+      "len": 5,
+      "printRatio": 1,
+      "hex": "6f607a735d",
+      "text": "o`zs]"
+    },
+    {
+      "i": 427,
+      "len": 9,
+      "printRatio": 0.556,
+      "hex": "c9e8a77c4a4e3c3b8e",
+      "text": "��|JN<;�"
+    },
+    {
+      "i": 428,
+      "len": 3,
+      "printRatio": 0,
+      "hex": "06d1d9",
+      "text": "\\x06��"
+    },
+    {
+      "i": 429,
+      "len": 7,
+      "printRatio": 0.286,
+      "hex": "9fb1c891301166",
+      "text": "��ȑ0\\x11f"
+    },
+    {
+      "i": 430,
+      "len": 51,
+      "printRatio": 0.431,
+      "hex": "e42034e0dd69fe0cac3faa52d29e78ee54f1f738a2b6afca41881b1769c4da7c3259102dc87409057c3d7a72757517e7951acc",
+      "text": "� 4��i�\\x0c�?�RҞx�T��8����A�\\x1b\\x17i��|2Y\\x10-�t\t\\x05|=zruu\\x17�\\x1a�"
+    },
+    {
+      "i": 431,
+      "len": 3,
+      "printRatio": 0.333,
+      "hex": "c71156",
+      "text": "�\\x11V"
+    },
+    {
+      "i": 432,
+      "len": 3,
+      "printRatio": 0.333,
+      "hex": "467fcb",
+      "text": "F\\x7f�"
+    },
+    {
+      "i": 433,
+      "len": 15,
+      "printRatio": 0.2,
+      "hex": "651fb6fe8a2e839fc452e3e3ab9fbb",
+      "text": "e\\x1f���.���R�㫟�"
+    },
+    {
+      "i": 434,
+      "len": 3,
+      "printRatio": 0.333,
+      "hex": "0dd91b",
+      "text": "\r�\\x1b"
+    },
+    {
+      "i": 435,
+      "len": 12,
+      "printRatio": 1,
+      "hex": "48576752483957594b786353",
+      "text": "HWgRH9WYKxcS"
+    },
+    {
+      "i": 436,
+      "len": 3,
+      "printRatio": 0,
+      "hex": "e3c4a4",
+      "text": "�Ĥ"
+    },
+    {
+      "i": 437,
+      "len": 10,
+      "printRatio": 1,
+      "hex": "47657453657276696365",
+      "text": "GetService"
+    },
+    {
+      "i": 438,
+      "len": 16,
+      "printRatio": 0.313,
+      "hex": "d09790b7bd2238aed649ce71bba46c8e",
+      "text": "З���\"8��I�q��l�"
+    },
+    {
+      "i": 439,
+      "len": 7,
+      "printRatio": 0.571,
+      "hex": "8e370f387be409",
+      "text": "�7\\x0f8{�\t"
+    },
+    {
+      "i": 440,
+      "len": 6,
+      "printRatio": 0.5,
+      "hex": "cb321662d658",
+      "text": "�2\\x16b�X"
+    },
+    {
+      "i": 441,
+      "len": 10,
+      "printRatio": 0.3,
+      "hex": "f1f5bd2b2f66a701bdd9",
+      "text": "���+/f�\\x01��"
+    },
+    {
+      "i": 442,
+      "len": 4,
+      "printRatio": 0.75,
+      "hex": "8779372a",
+      "text": "�y7*"
+    },
+    {
+      "i": 443,
+      "len": 4,
+      "printRatio": 1,
+      "hex": "7e672179",
+      "text": "~g!y"
+    },
+    {
+      "i": 444,
+      "len": 12,
+      "printRatio": 1,
+      "hex": "6d717943426e514c615a5678",
+      "text": "mqyCBnQLaZVx"
+    },
+    {
+      "i": 445,
+      "len": 13,
+      "printRatio": 0.231,
+      "hex": "dd8b157f0f3633e9b0cad46698",
+      "text": "݋\\x15\\x7f\\x0f63���f�"
+    },
+    {
+      "i": 446,
+      "len": 5,
+      "printRatio": 0.2,
+      "hex": "3c9597ab87",
+      "text": "<����"
+    },
+    {
+      "i": 447,
+      "len": 27,
+      "printRatio": 0.481,
+      "hex": "614020a912691092ab72ed7e9053eca055285f852b1eca66d94be0",
+      "text": "a@ �\\x12i\\x10��r�~�S�U(_�+\\x1e�f�K�"
+    },
+    {
+      "i": 448,
+      "len": 4,
+      "printRatio": 0.5,
+      "hex": "827c559a",
+      "text": "�|U�"
+    },
+    {
+      "i": 449,
+      "len": 10,
+      "printRatio": 0.5,
+      "hex": "ccc366e7bc5218326556",
+      "text": "��f�R\\x182eV"
+    },
+    {
+      "i": 450,
+      "len": 12,
+      "printRatio": 1,
+      "hex": "7378676a79774855584d6a55",
+      "text": "sxgjywHUXMjU"
+    },
+    {
+      "i": 451,
+      "len": 1,
+      "printRatio": 1,
+      "hex": "20",
+      "text": " "
+    },
+    {
+      "i": 452,
+      "len": 10,
+      "printRatio": 0.4,
+      "hex": "459eb5b91a8647392bef",
+      "text": "E���\\x1a�G9+�"
+    },
+    {
+      "i": 453,
+      "len": 3,
+      "printRatio": 0.667,
+      "hex": "229927",
+      "text": "\"�'"
+    },
+    {
+      "i": 454,
+      "len": 6,
+      "printRatio": 0.167,
+      "hex": "93c2ee86b50d",
+      "text": "��\r"
+    },
+    {
+      "i": 455,
+      "len": 8,
+      "printRatio": 0.375,
+      "hex": "f7d618b458ef6478",
+      "text": "��\\x18�X�dx"
+    },
+    {
+      "i": 456,
+      "len": 0,
+      "printRatio": 0,
+      "hex": "",
+      "text": ""
+    },
+    {
+      "i": 457,
+      "len": 3,
+      "printRatio": 0.333,
+      "hex": "d9479e",
+      "text": "�G�"
+    },
+    {
+      "i": 458,
+      "len": 6,
+      "printRatio": 1,
+      "hex": "636f6e636174",
+      "text": "concat"
+    },
+    {
+      "i": 459,
+      "len": 3,
+      "printRatio": 0.333,
+      "hex": "6fd2d1",
+      "text": "o��"
+    },
+    {
+      "i": 460,
+      "len": 5,
+      "printRatio": 0.4,
+      "hex": "b9602f91c1",
+      "text": "�`/��"
+    },
+    {
+      "i": 461,
+      "len": 4,
+      "printRatio": 0,
+      "hex": "e3ce0cd2",
+      "text": "��\\x0c�"
+    },
+    {
+      "i": 462,
+      "len": 10,
+      "printRatio": 0.4,
+      "hex": "f0ecc27daec41e4f4173",
+      "text": "���}��\\x1eOAs"
+    },
+    {
+      "i": 463,
+      "len": 16,
+      "printRatio": 0.438,
+      "hex": "2d9b61fe8200e8f3f1c961494531b33d",
+      "text": "-�a��\\x00����aIE1�="
+    },
+    {
+      "i": 464,
+      "len": 4,
+      "printRatio": 0.5,
+      "hex": "5dbce541",
+      "text": "]��A"
+    },
+    {
+      "i": 465,
+      "len": 7,
+      "printRatio": 0.429,
+      "hex": "38b3a221d7034f",
+      "text": "8��!�\\x03O"
+    },
+    {
+      "i": 466,
+      "len": 3,
+      "printRatio": 0.333,
+      "hex": "fe862d",
+      "text": "��-"
+    },
+    {
+      "i": 467,
+      "len": 14,
+      "printRatio": 0.143,
+      "hex": "e3a1b56188b36486e8bcc5190bc1",
+      "text": "㡵a��d���\\x19\\x0b�"
+    },
+    {
+      "i": 468,
+      "len": 22,
+      "printRatio": 0.5,
+      "hex": "376e68b7901d23ad6eec36142f6962de4be868e2dd12",
+      "text": "7nh��\\x1d#�n�6\\x14/ib�K�h��\\x12"
+    },
+    {
+      "i": 469,
+      "len": 12,
+      "printRatio": 0.583,
+      "hex": "3f5315e395a4776030676f17",
+      "text": "?S\\x15㕤w`0go\\x17"
+    },
+    {
+      "i": 470,
+      "len": 3,
+      "printRatio": 0.333,
+      "hex": "1054e9",
+      "text": "\\x10T�"
+    },
+    {
+      "i": 471,
+      "len": 4,
+      "printRatio": 0.5,
+      "hex": "4e69c994",
+      "text": "Niɔ"
+    },
+    {
+      "i": 472,
+      "len": 1,
+      "printRatio": 0,
+      "hex": "b2",
+      "text": "�"
+    },
+    {
+      "i": 473,
+      "len": 4,
+      "printRatio": 1,
+      "hex": "63686172",
+      "text": "char"
+    },
+    {
+      "i": 474,
+      "len": 3,
+      "printRatio": 0.667,
+      "hex": "351f52",
+      "text": "5\\x1fR"
+    },
+    {
+      "i": 475,
+      "len": 7,
+      "printRatio": 1,
+      "hex": "72657175657374",
+      "text": "request"
+    },
+    {
+      "i": 476,
+      "len": 5,
+      "printRatio": 1,
+      "hex": "5544696d32",
+      "text": "UDim2"
+    },
+    {
+      "i": 477,
+      "len": 6,
+      "printRatio": 0.833,
+      "hex": "44b323462534",
+      "text": "D�#F%4"
+    },
+    {
+      "i": 478,
+      "len": 3,
+      "printRatio": 0,
+      "hex": "c4d4a6",
+      "text": "�Ԧ"
+    },
+    {
+      "i": 479,
+      "len": 3,
+      "printRatio": 0.667,
+      "hex": "942632",
+      "text": "�&2"
+    },
+    {
+      "i": 480,
+      "len": 11,
+      "printRatio": 1,
+      "hex": "476574436c69656e744964",
+      "text": "GetClientId"
+    },
+    {
+      "i": 481,
+      "len": 5,
+      "printRatio": 0.4,
+      "hex": "d75136d89e",
+      "text": "�Q6؞"
+    },
+    {
+      "i": 482,
+      "len": 6,
+      "printRatio": 1,
+      "hex": "4b5833624332",
+      "text": "KX3bC2"
+    },
+    {
+      "i": 483,
+      "len": 14,
+      "printRatio": 0.286,
+      "hex": "2707fb5decfbb669c3953cecc9f9",
+      "text": "'\\x07�]���iÕ<���"
+    },
+    {
+      "i": 484,
+      "len": 6,
+      "printRatio": 0.5,
+      "hex": "790552738994",
+      "text": "y\\x05Rs��"
+    },
+    {
+      "i": 485,
+      "len": 7,
+      "printRatio": 0.429,
+      "hex": "bbed793dd67cb6",
+      "text": "��y=�|�"
+    },
+    {
+      "i": 486,
+      "len": 4,
+      "printRatio": 0.25,
+      "hex": "165da481",
+      "text": "\\x16]��"
+    },
+    {
+      "i": 487,
+      "len": 16,
+      "printRatio": 1,
+      "hex": "54616d70657220446574656374656421",
+      "text": "Tamper Detected!"
+    },
+    {
+      "i": 488,
+      "len": 11,
+      "printRatio": 0.364,
+      "hex": "0cf7559579e30e5051b7f7",
+      "text": "\\x0c�U�y�\\x0ePQ��"
+    },
+    {
+      "i": 489,
+      "len": 5,
+      "printRatio": 0.4,
+      "hex": "af590a188c",
+      "text": "�Y\n\\x18�"
+    },
+    {
+      "i": 490,
+      "len": 4,
+      "printRatio": 1,
+      "hex": "68747470",
+      "text": "http"
+    },
+    {
+      "i": 491,
+      "len": 22,
+      "printRatio": 0.409,
+      "hex": "c2357f718506cd476ca175949628330887a384b42728",
+      "text": "�5\\x7fq�\\x06�Gl�u��(3\\x08����'("
+    },
+    {
+      "i": 492,
+      "len": 12,
+      "printRatio": 1,
+      "hex": "6d38395a766a425636367347",
+      "text": "m89ZvjBV66sG"
+    },
+    {
+      "i": 493,
+      "len": 5,
+      "printRatio": 0.2,
+      "hex": "859fe075a2",
+      "text": "���u�"
+    },
+    {
+      "i": 494,
+      "len": 3,
+      "printRatio": 1,
+      "hex": "3b3838",
+      "text": ";88"
+    },
+    {
+      "i": 495,
+      "len": 7,
+      "printRatio": 0.429,
+      "hex": "dee045f2549577",
+      "text": "��E�T�w"
+    },
+    {
+      "i": 496,
+      "len": 5,
+      "printRatio": 1,
+      "hex": "5f5f6c656e",
+      "text": "__len"
+    },
+    {
+      "i": 497,
+      "len": 3,
+      "printRatio": 0,
+      "hex": "8cd7c2",
+      "text": "���"
+    },
+    {
+      "i": 498,
+      "len": 12,
+      "printRatio": 1,
+      "hex": "444a7730486b54554b414a6c",
+      "text": "DJw0HkTUKAJl"
+    },
+    {
+      "i": 499,
+      "len": 12,
+      "printRatio": 0.333,
+      "hex": "aa6365f2471dead15bca1e88",
+      "text": "�ce�G\\x1d��[�\\x1e�"
+    },
+    {
+      "i": 500,
+      "len": 4,
+      "printRatio": 0.25,
+      "hex": "0f3cf1f3",
+      "text": "\\x0f<��"
+    },
+    {
+      "i": 501,
+      "len": 5,
+      "printRatio": 0.4,
+      "hex": "2eed5abb92",
+      "text": ".�Z��"
+    },
+    {
+      "i": 502,
+      "len": 2,
+      "printRatio": 0,
+      "hex": "bbe3",
+      "text": "��"
+    },
+    {
+      "i": 503,
+      "len": 14,
+      "printRatio": 1,
+      "hex": "52766163733177595a4566544c4e",
+      "text": "Rvacs1wYZEfTLN"
+    },
+    {
+      "i": 504,
+      "len": 13,
+      "printRatio": 1,
+      "hex": "496c615937373052596d707070",
+      "text": "IlaY770RYmppp"
+    },
+    {
+      "i": 505,
+      "len": 4,
+      "printRatio": 0.5,
+      "hex": "234ae6a1",
+      "text": "#J�"
+    },
+    {
+      "i": 506,
+      "len": 6,
+      "printRatio": 0.5,
+      "hex": "88f7513b3415",
+      "text": "��Q;4\\x15"
+    },
+    {
+      "i": 507,
+      "len": 2,
+      "printRatio": 1,
+      "hex": "6c31",
+      "text": "l1"
+    },
+    {
+      "i": 508,
+      "len": 7,
+      "printRatio": 0.429,
+      "hex": "0c5f94569ded44",
+      "text": "\\x0c_�V��D"
+    },
+    {
+      "i": 509,
+      "len": 7,
+      "printRatio": 1,
+      "hex": "5f5f696e646578",
+      "text": "__index"
+    },
+    {
+      "i": 510,
+      "len": 12,
+      "printRatio": 0.417,
+      "hex": "a12d147f8c60c075b66e5a1c",
+      "text": "�-\\x14\\x7f�`�u�nZ\\x1c"
+    },
+    {
+      "i": 511,
+      "len": 4,
+      "printRatio": 0.25,
+      "hex": "f5130916",
+      "text": "�\\x13\t\\x16"
+    },
+    {
+      "i": 512,
+      "len": 11,
+      "printRatio": 0.182,
+      "hex": "b3b8136ac943a8c489d992",
+      "text": "��\\x13j�C�ĉْ"
+    },
+    {
+      "i": 513,
+      "len": 14,
+      "printRatio": 1,
+      "hex": "563670797847546f366856754e37",
+      "text": "V6pyxGTo6hVuN7"
+    },
+    {
+      "i": 514,
+      "len": 13,
+      "printRatio": 1,
+      "hex": "643237566d35706a416b714461",
+      "text": "d27Vm5pjAkqDa"
+    },
+    {
+      "i": 515,
+      "len": 14,
+      "printRatio": 1,
+      "hex": "5452377854597a6e4d445a4d7244",
+      "text": "TR7xTYznMDZMrD"
+    },
+    {
+      "i": 516,
+      "len": 14,
+      "printRatio": 1,
+      "hex": "7161376576726673496657364854",
+      "text": "qa7evrfsIfW6HT"
+    },
+    {
+      "i": 517,
+      "len": 3,
+      "printRatio": 1,
+      "hex": "7c317b",
+      "text": "|1{"
+    },
+    {
+      "i": 518,
+      "len": 8,
+      "printRatio": 0.375,
+      "hex": "bbe8e87d577f601f",
+      "text": "���}W\\x7f`\\x1f"
+    },
+    {
+      "i": 519,
+      "len": 7,
+      "printRatio": 0.286,
+      "hex": "fc64fca93ed3b7",
+      "text": "�d��>ӷ"
+    },
+    {
+      "i": 520,
+      "len": 15,
+      "printRatio": 0.333,
+      "hex": "aa75a9c84b138f2739b9b68f4ffa8c",
+      "text": "�u��K\\x13�'9���O��"
+    },
+    {
+      "i": 521,
+      "len": 7,
+      "printRatio": 0.429,
+      "hex": "3f01f8254516b9",
+      "text": "?\\x01�%E\\x16�"
+    },
+    {
+      "i": 522,
+      "len": 12,
+      "printRatio": 0.333,
+      "hex": "6a99159668e1667de3988898",
+      "text": "j�\\x15�h�f}㘈�"
+    },
+    {
+      "i": 523,
+      "len": 4,
+      "printRatio": 0.5,
+      "hex": "ef7e3004",
+      "text": "�~0\\x04"
+    },
+    {
+      "i": 524,
+      "len": 12,
+      "printRatio": 0.5,
+      "hex": "fa4d7b85bb555c45a77abbbf",
+      "text": "�M{��U\\E�z��"
+    },
+    {
+      "i": 525,
+      "len": 4,
+      "printRatio": 0.25,
+      "hex": "e95588dd",
+      "text": "�U��"
+    },
+    {
+      "i": 526,
+      "len": 13,
+      "printRatio": 1,
+      "hex": "6e7078644e63634b4750445378",
+      "text": "npxdNccKGPDSx"
+    },
+    {
+      "i": 527,
+      "len": 16,
+      "printRatio": 0.438,
+      "hex": "56218c09f9fdba9b73f34cb68acd2946",
+      "text": "V!�\t����s�L���)F"
+    },
+    {
+      "i": 528,
+      "len": 8,
+      "printRatio": 0.125,
+      "hex": "83a087a5c2ad0563",
+      "text": "����­\\x05c"
+    },
+    {
+      "i": 529,
+      "len": 6,
+      "printRatio": 1,
+      "hex": "676d61746368",
+      "text": "gmatch"
+    },
+    {
+      "i": 530,
+      "len": 12,
+      "printRatio": 0.167,
+      "hex": "185657f114f4f4fea318b4dd",
+      "text": "\\x18VW�\\x14����\\x18��"
+    },
+    {
+      "i": 531,
+      "len": 4,
+      "printRatio": 0.75,
+      "hex": "7d668b69",
+      "text": "}f�i"
+    },
+    {
+      "i": 532,
+      "len": 3,
+      "printRatio": 0.333,
+      "hex": "e324e1",
+      "text": "�$�"
+    },
+    {
+      "i": 533,
+      "len": 29,
+      "printRatio": 0.414,
+      "hex": "09ce3232e43b99993310ad1f6005f0bb393abce1fe4ba49f38122ea22b",
+      "text": "\t�22�;��3\\x10�\\x1f`\\x05�9:���K��8\\x12.�+"
+    },
+    {
+      "i": 534,
+      "len": 5,
+      "printRatio": 1,
+      "hex": "6572726f72",
+      "text": "error"
+    },
+    {
+      "i": 535,
+      "len": 4,
+      "printRatio": 0.5,
+      "hex": "2398bc26",
+      "text": "#��&"
+    },
+    {
+      "i": 536,
+      "len": 14,
+      "printRatio": 0.357,
+      "hex": "67881aba2fc50abf938b042e5fd6",
+      "text": "g�\\x1a�/�\n���\\x04._�"
+    },
+    {
+      "i": 537,
+      "len": 4,
+      "printRatio": 1,
+      "hex": "67737562",
+      "text": "gsub"
+    },
+    {
+      "i": 538,
+      "len": 7,
+      "printRatio": 0.286,
+      "hex": "f9cd32501290b1",
+      "text": "��2P\\x12��"
+    },
+    {
+      "i": 539,
+      "len": 5,
+      "printRatio": 0.2,
+      "hex": "a80fd5e025",
+      "text": "�\\x0f��%"
+    },
+    {
+      "i": 540,
+      "len": 8,
+      "printRatio": 0.25,
+      "hex": "ffe3127fd45f39ae",
+      "text": "��\\x12\\x7f�_9�"
+    },
+    {
+      "i": 541,
+      "len": 7,
+      "printRatio": 0.429,
+      "hex": "f22eedfb466017",
+      "text": "�.��F`\\x17"
+    },
+    {
+      "i": 542,
+      "len": 10,
+      "printRatio": 1,
+      "hex": "446973636f6e6e656374",
+      "text": "Disconnect"
+    },
+    {
+      "i": 543,
+      "len": 7,
+      "printRatio": 0.286,
+      "hex": "2f4d0e02d5fff3",
+      "text": "/M\\x0e\\x02���"
+    },
+    {
+      "i": 544,
+      "len": 7,
+      "printRatio": 0.143,
+      "hex": "06c6e8a6c34cf6",
+      "text": "\\x06���L�"
+    },
+    {
+      "i": 545,
+      "len": 7,
+      "printRatio": 0.429,
+      "hex": "025cd734c49325",
+      "text": "\\x02\\�4ē%"
+    },
+    {
+      "i": 546,
+      "len": 3,
+      "printRatio": 1,
+      "hex": "5e7b5c",
+      "text": "^{\\"
+    },
+    {
+      "i": 547,
+      "len": 12,
+      "printRatio": 1,
+      "hex": "7734536d395146424f466345",
+      "text": "w4Sm9QFBOFcE"
+    }
+  ]
+}

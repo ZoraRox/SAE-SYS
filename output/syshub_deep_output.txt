@@ -1,0 +1,101 @@
+﻿======================================================================
+STEP 1: EXTRACT VM FUNCTION DEFINITIONS
+======================================================================
+
+======================================================================
+STEP 2: FIND X, Z, F FUNCTION DEFINITIONS
+======================================================================
+Found X/Z/F candidate at pos 30199 (local X):
+7+343408)end end do local X=string.char local B=type local Z=table.insert local R={N=820874+-820857;r=-1017125-(-1017183);k=-564392-(-564443);["\043"]=-730111+730131;w=947785+-947753;P=102557+-102508;["\050"]=219461-219400;["\0
+---
+Found X/Z/F candidate at pos 32505 (local X):
+rn R end,function(T)local X,B=-985630+985631,T[913086+-913085]while B do K[B],X=K[B]-(509412-509411),X+(-821639-(-821640))if-116266-(-116266)==K[B]then K[B],V[B]=nil,nil end B=T[X]end end,function(T)for X=204278-204277,#T,-2336
+---
+Found X/Z/F candidate at pos 34042 (local X):
+4),function(B,R,x,z)local XD,QD,ZD,L,TD,S,w,a,Q,xD,M,b,n,I,h,Y,l,t,G,BD,P,d,s,p,j,zD,f,J,m,g,K,D,RD,A,r,c,W,eD,VD,v,E,y while B do if B<910338+6750781 then if B<4695859-479790 then if B<707856+1042589 then if B<-742644+1713061 
+---
+Found X/Z/F candidate at pos 30232 (local Z):
+g.char local B=type local Z=table.insert local R={N=820874+-820857;r=-1017125-(-1017183);k=-564392-(-564443);["\043"]=-730111+730131;w=947785+-947753;P=102557+-102508;["\050"]=219461-219400;["\054"]=449467-449422;v=745145+-7451
+---
+Found X/Z/F candidate at pos 32399 (local Z):
+,t,J,B=function(T,X)local Z=d(X)local R=function(R,x,z,e,Q,V,K,i)return B(T,{R,x;z,e;Q,V,K,i},X,Z)end return R end,function(T)local X,B=-985630+985631,T[913086+-913085]while B do K[B],X=K[B]-(509412-509411),X+(-821639-(-821640)
+---
+Found X/Z/F candidate at pos 32791 (local Z):
+then local B=R(true)local Z=z(B)Z[X(848476+-877427)],Z[X(579794+-608847)],Z[X(958946-987910)]=T,a,function()return 780592+-4605346 end return B else return x({},{[X(693588-722641)]=a;[X(-33371+4420)]=T;[X(-819395-(-790431))]=fu
+---
+Found X/Z/F candidate at pos 29772 (function X):
+\098\061\061"}local function X(X)return T[X+(737202+-707742)]end for X,B in ipairs({{-655180-(-655181),320878-320331};{314698+-314697;-62754+63285},{-255743-(-256275),-999677-(-1000224)}})do while B[-881687+881688]<B[-1009560-(-10
+---
+
+======================================================================
+STEP 3: EXTRACT STRUCTURE OF return(function(...)local T=...
+======================================================================
+FIRST 3000 chars of line2 (structured):
+return(function(...)local T={"\116\073\100\075","\079\077\116\073\118\087\098\103\084\101\088\107\120\051\112\099\072\105\049\082\087\107\088\114\085\115\117\121\071\114\071\099\115\048\074\087\052\067\111\061","\101\049\069\073\090\086\074\061","\074\065\067\068\069\119\061\061","\101\116\119\081\087\067\089\110\079\104\121\100\067\082\098\087\049\050\072\061";
+"\101\086\056\097\072\119\061\061","\121\077\112\073\043\048\051\098\111\098\061\061","\106\105\089\066\116\079\043\061";
+"\089\121\118\071\099\050\078\099\115\081\116\061";
+"\068\067\103\054\121\112\101\119\110\082\061\061";
+"\078\047\076\107\072\070\050\087\090\084\066\057\055\105\061\061","\083\112\112\115\105\054\049\089\068\082\061\061","\048\111\090\052\108\111\056\118\050\119\061\061";
+"\105\076\107\049\056\118\071\100\069\098\061\061";
+"\049\053\054\077","\055\107\078\100\090\100\076\078\078\088\069\109\078\084\056\110","\043\072\117\043\048\116\049\114\073\116\088\061";
+"\106\085\072\109\056\105\061\061";
+"\078\047\105\088\054\115\086\114\106\117\111\061";
+"\051\111\082\101\088\055\111\051\071\105\061\061";
+"\075\052\110\105\113\069\119\108\051\075\120\061","\056\116\083\070\074\101\088\061","\066\043\078\108\090\098\061\061","\104\108\078\085\115\074\084\051\100\098\061\061";
+"\066\057\078\100\043\102\075\098\043\088\054\069\071\097\110\084\071\082\061\061","\071\111\053\109\072\109\067\052\101\116\117\104\118\113\110\116\107\074\051\048\066\116\119\076\116\048\056\086\103\052\076\110\119\047\102\103\075\101\074\097\053\083\078\043\072\087\054\073\065\043\089\090\076\082\100\110\065\084\082\118\056\051\102\112\068\079\106\054\099\075\077\071\071\103\051\088\050\075\069\104\121\078\086\106\097\050\055\119\083\099\051\075\102\088\120\075\119\082\061\061","\119\114\081\097\055\097\105\043\067\109\118\061","\073\110\051\083\076\114\076\048\085\111\107\081\107\047\079\098\109\084\052\119\069\103\043\114\110\065\098\047\104\105\061\061","\043\072\080\115\073\102\120\115\117\102\120\074\099\099\057\106\053\080\068\102\050\054\112\061","\112\069\113\101\100\110\083\069\116\089\077\061";
+"\052\047\087\122\108\083\056\047\114\082\083\099\089\078\111\108\070\082\119\074\074\100\090\111\066\079\079\106\075\072\056\051\108\113\065\056\078\048\098\082\116\083\087\066\102\066\080\097\077\071\052\057\119\043\052\052\087\118\111\098\121\085\077\107\085\065\070\075\069\105\112\061","\114\119\119\121","\106\080\097\115\075\082\061\061","\081\117\078\112\077\110\050\073\101\049\110\097\101\049\056\112";
+"\074\056\050\090\075\057\055\077\052\073\075\099\065\102\079\107\081\082\122\051\068\105\061\061","\043\086\057\084\097\082\061\061","\066\055\066\057";
+"\071\117\112\108\102\105\061\061","\072\108\072\114";
+"\111\099\081\089\072\082\074\065\073\086\078\066\097\098\061\061","\103\113\121\098","\078\122\065\097\090\098\061\061";
+"\077\117\069\108\090\053\098\061";
+"\072\109\122\067\073\086\104\078\087\043\082\061";
+"\088\083\098\118";
+"\066\116\113\118\069\106\089\100\102\108\117\048\100\082\061\061
+
+======================================================================
+STEP 4: SEARCH FOR getfenv, _ENV, getmetatable PATTERNS
+======================================================================
+Pattern 'getfenv' found 2 times
+  First occurrence: ...6606 n=A end end end end end end end end B=#z return Z(Q)end return(t(14996783-14110,{}))(Z(Q))end)(getfenv and getfenv()or _ENV,unpack or table[X(321528+-350848)],newproxy,setmetatable,getmetatable,s...
+
+Pattern '_ENV' found 1 times
+  First occurrence: ... end end end end B=#z return Z(Q)end return(t(14996783-14110,{}))(Z(Q))end)(getfenv and getfenv()or _ENV,unpack or table[X(321528+-350848)],newproxy,setmetatable,getmetatable,select,{...})end)(...)...
+
+Pattern 'getmetatable' found 1 times
+  First occurrence: ...}))(Z(Q))end)(getfenv and getfenv()or _ENV,unpack or table[X(321528+-350848)],newproxy,setmetatable,getmetatable,select,{...})end)(...)...
+
+Pattern 'setmetatable' found 1 times
+  First occurrence: ...96783-14110,{}))(Z(Q))end)(getfenv and getfenv()or _ENV,unpack or table[X(321528+-350848)],newproxy,setmetatable,getmetatable,select,{...})end)(...)...
+
+Pattern 'unpack' found 1 times
+  First occurrence: ...end end end B=#z return Z(Q)end return(t(14996783-14110,{}))(Z(Q))end)(getfenv and getfenv()or _ENV,unpack or table[X(321528+-350848)],newproxy,setmetatable,getmetatable,select,{...})end)(...)...
+
+Pattern 'select' found 1 times
+  First occurrence: ...(getfenv and getfenv()or _ENV,unpack or table[X(321528+-350848)],newproxy,setmetatable,getmetatable,select,{...})end)(...)...
+
+Pattern 'newproxy' found 1 times
+  First occurrence: ...urn(t(14996783-14110,{}))(Z(Q))end)(getfenv and getfenv()or _ENV,unpack or table[X(321528+-350848)],newproxy,setmetatable,getmetatable,select,{...})end)(...)...
+
+
+======================================================================
+STEP 5: DECODE ALL T ENTRIES AND LOOK FOR PRINTABLE STRINGS
+======================================================================
+Total T entries: 547
+
+Found 411 potentially printable entries:
+python : Traceback (most recent call last):
+At line:1 char:37
++ ... Users\Hype\Desktop\temp ; python syshub_deep_analysis.py 2>&1 | Out-F ...
++                               ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (Traceback (most recent call last) 
+   ::String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+  File "C:\Users\Hype\Desktop\temp\syshub_deep_analysis.py", line 132, in 
+<module>
+    print(f"T[{idx}] type={typ} score={score}: {clean_preview}")
+  File "C:\laragon\bin\python\python-3.10\lib\encodings\cp1252.py", line 19, 
+in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+UnicodeEncodeError: 'charmap' codec can't encode character '\ufffd' in 
+position 42: character maps to <undefined>
